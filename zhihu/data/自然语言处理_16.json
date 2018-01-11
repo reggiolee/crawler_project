@@ -1,0 +1,142 @@
+{
+  "related_search_result": [],
+  "paging": {
+    "is_end": false,
+    "next": "http://www.zhihu.com/search_v3?content_length=150&correction=1&search_hash_id=392f7cdc8a9b2bc4641542fbdacdfeae&q=%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86&limit=10&t=column&offset=160&topic_filter=0",
+    "previous": "http://www.zhihu.com/search_v3?content_length=150&correction=1&search_hash_id=392f7cdc8a9b2bc4641542fbdacdfeae&q=%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86&limit=10&t=column&offset=140&topic_filter=0"
+  },
+  "data": [
+    {
+      "highlight": {
+        "content": "",
+        "description": "",
+        "title": "语音识别工具箱Kaldi"
+      },
+      "object": {
+        "description": "",
+        "is_following": false,
+        "id": "c_136127750",
+        "articles_count": 0,
+        "attached_info_bytes": "Ol8KC3BsYWNlaG9sZGVyEiAzOTJmN2NkYzhhOWIyYmM0NjQxNTQyZmJkYWNkZmVhZRgFIgU2OTIzMioLY18xMzYxMjc3NTBKEuiHqueEtuivreiogOWkhOeQhlAAWARgAQ==",
+        "score": 0.0989394337,
+        "title": "语音识别工具箱Kaldi",
+        "url": "https://api.zhihu.com/columns/c_136127750",
+        "author": {
+          "badge": [],
+          "name": "脚本侠",
+          "url": "https://api.zhihu.com/people/3ac4038ff822162aa5cfe9967873a6de",
+          "type": "people",
+          "avatar_url": "https://pic3.zhimg.com/50/v2-c5b1d2796315f0bc5724386c0dd2ec16_s.jpg",
+          "url_token": "scriptman",
+          "id": "3ac4038ff822162aa5cfe9967873a6de"
+        },
+        "avatar_url": "https://pic4.zhimg.com/v2-7078dace1c523176bd17609678899b71_r.jpg",
+        "image_url": "https://pic4.zhimg.com/v2-7078dace1c523176bd17609678899b71_r.jpg",
+        "followers": 5,
+        "type": "column"
+      },
+      "type": "search_result",
+      "id": 151
+    },
+    {
+      "highlight": {
+        "content": "最近在做关于文本<em>处理</em>的项目，接触到一些经典且仍然起到很大作用的文本处理手法",
+        "description": "最近在做关于文本<em>处理</em>的项目，接触到一些经典且仍然起到很大作用的文本处理手法",
+        "title": "从文本挖掘开始"
+      },
+      "object": {
+        "description": "最近在做关于文本<em>处理</em>的项目，接触到一些经典且仍然起到很大作用的文本处理手法",
+        "is_following": false,
+        "id": "nlpyeah",
+        "articles_count": 0,
+        "attached_info_bytes": "OlsKC3BsYWNlaG9sZGVyEiAzOTJmN2NkYzhhOWIyYmM0NjQxNTQyZmJkYWNkZmVhZRgFIgUzNzkyMSoHbmxweWVhaEoS6Ieq54S26K+t6KiA5aSE55CGUABYBGAB",
+        "score": 0.0986321718,
+        "title": "从文本挖掘开始",
+        "url": "https://api.zhihu.com/columns/nlpyeah",
+        "author": {
+          "badge": [],
+          "name": "示心",
+          "url": "https://api.zhihu.com/people/30af643b5810466ba17676980963eeb2",
+          "type": "people",
+          "avatar_url": "https://pic3.zhimg.com/50/v2-89b651dddc92d3d0207ace0bebf0aa4b_s.jpg",
+          "url_token": "simon-cai-47",
+          "id": "30af643b5810466ba17676980963eeb2"
+        },
+        "avatar_url": "https://pic3.zhimg.com/4b70deef7_r.jpg",
+        "image_url": "https://pic3.zhimg.com/4b70deef7_r.jpg",
+        "followers": 7,
+        "type": "column"
+      },
+      "type": "search_result",
+      "id": 152
+    },
+    {
+      "highlight": {
+        "content": "",
+        "description": "",
+        "title": "NLP基础调研"
+      },
+      "object": {
+        "description": "",
+        "is_following": false,
+        "id": "c_66319515",
+        "articles_count": 13,
+        "attached_info_bytes": "Ol4KC3BsYWNlaG9sZGVyEiAzOTJmN2NkYzhhOWIyYmM0NjQxNTQyZmJkYWNkZmVhZRgFIgUyNDM5OSoKY182NjMxOTUxNUoS6Ieq54S26K+t6KiA5aSE55CGUABYBGAB",
+        "score": 0.0980274081,
+        "title": "NLP基础调研",
+        "url": "https://api.zhihu.com/columns/c_66319515",
+        "author": {
+          "badge": [],
+          "name": "叶舞冬阳",
+          "url": "https://api.zhihu.com/people/f5572bb39338df00f50529d203dd5eea",
+          "type": "people",
+          "avatar_url": "https://pic4.zhimg.com/50/bcd1a30192eade139d955accf0e781ca_s.jpg",
+          "url_token": "ye-wu-dong-yang",
+          "id": "f5572bb39338df00f50529d203dd5eea"
+        },
+        "avatar_url": "https://pic4.zhimg.com/v2-84095dbc79a6fd4770450a6390186f2f_r.jpg",
+        "image_url": "https://pic4.zhimg.com/v2-84095dbc79a6fd4770450a6390186f2f_r.jpg",
+        "followers": 98,
+        "type": "column"
+      },
+      "type": "search_result",
+      "id": 153
+    },
+    {
+      "highlight": {
+        "content": "书中的案例数据都是那么可爱，<em>处理</em>简单，条件符合，但是实际上很多难<em>处理</em>的数据，意想不到的情况出现",
+        "description": "书中的案例数据都是那么可爱，<em>处理</em>简单，条件符合，但是实际上很多难<em>处理</em>的数据，意想不到的情况出现",
+        "title": "斑马还是个产品"
+      },
+      "object": {
+        "description": "书中的案例数据都是那么可爱，<em>处理</em>简单，条件符合，但是实际上很多难<em>处理</em>的数据，意想不到的情况出现",
+        "is_following": false,
+        "id": "c_108609114",
+        "articles_count": 0,
+        "attached_info_bytes": "Ol8KC3BsYWNlaG9sZGVyEiAzOTJmN2NkYzhhOWIyYmM0NjQxNTQyZmJkYWNkZmVhZRgFIgU0MjEzNyoLY18xMDg2MDkxMTRKEuiHqueEtuivreiogOWkhOeQhlAAWARgAQ==",
+        "score": 0.0922658071,
+        "title": "斑马还是个产品",
+        "url": "https://api.zhihu.com/columns/c_108609114",
+        "author": {
+          "badge": [],
+          "name": "用R来上天的斑马",
+          "url": "https://api.zhihu.com/people/da8d69cab12d8756028b9c1cc48b6958",
+          "type": "people",
+          "avatar_url": "https://pic2.zhimg.com/50/v2-7b160f266ca6618bd68cb8ff86ae3a25_s.jpg",
+          "url_token": "ban-ma-52-14",
+          "id": "da8d69cab12d8756028b9c1cc48b6958"
+        },
+        "avatar_url": "https://pic4.zhimg.com/v2-1ce2e07b6a18731393064d6d266ddcce_r.jpg",
+        "image_url": "https://pic4.zhimg.com/v2-1ce2e07b6a18731393064d6d266ddcce_r.jpg",
+        "followers": 1,
+        "type": "column"
+      },
+      "type": "search_result",
+      "id": 154
+    }
+  ],
+  "search_action_info": {
+    "attached_info_bytes": "OjwSIDM5MmY3Y2RjOGE5YjJiYzQ2NDE1NDJmYmRhY2RmZWFlShLoh6rnhLbor63oqIDlpITnkIZQAFgEYAE=",
+    "search_hash_id": "392f7cdc8a9b2bc4641542fbdacdfeae"
+  }
+}

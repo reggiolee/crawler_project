@@ -1,0 +1,339 @@
+{
+  "related_search_result": [],
+  "paging": {
+    "is_end": false,
+    "next": "http://www.zhihu.com/search_v3?content_length=150&correction=1&search_hash_id=392f7cdc8a9b2bc4641542fbdacdfeae&q=%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86&limit=10&t=column&offset=10&topic_filter=0",
+    "previous": "http://www.zhihu.com/search_v3?content_length=150&correction=1&search_hash_id=392f7cdc8a9b2bc4641542fbdacdfeae&q=%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86&limit=10&t=column&offset=0&topic_filter=0"
+  },
+  "data": [
+    {
+      "highlight": {
+        "content": "公众号[<em>自然语言处理</em>与机器学习] 微信号yizhennotes",
+        "description": "公众号[<em>自然语言处理</em>与机器学习] 微信号yizhennotes",
+        "title": "机器学习算法与<em>自然语言处理</em>"
+      },
+      "object": {
+        "description": "公众号[<em>自然语言处理</em>与机器学习] 微信号yizhennotes",
+        "is_following": false,
+        "id": "qinlibo-ml",
+        "articles_count": 108,
+        "attached_info_bytes": "Ol4KC3BsYWNlaG9sZGVyEiAzOTJmN2NkYzhhOWIyYmM0NjQxNTQyZmJkYWNkZmVhZRgFIgUyNjQxOCoKcWlubGliby1tbEoS6Ieq54S26K+t6KiA5aSE55CGUABYBGAB",
+        "score": 2.61109972,
+        "title": "机器学习算法与<em>自然语言处理</em>",
+        "url": "https://api.zhihu.com/columns/qinlibo-ml",
+        "author": {
+          "badge": [],
+          "name": "忆臻",
+          "url": "https://api.zhihu.com/people/1b72d70b702b3920638f0235d380ebd8",
+          "type": "people",
+          "avatar_url": "https://pic1.zhimg.com/50/v2-8c07862e1f6c22c6aa53504b25a857a3_s.jpg",
+          "url_token": "qinlibo_nlp",
+          "id": "1b72d70b702b3920638f0235d380ebd8"
+        },
+        "avatar_url": "https://pic1.zhimg.com/v2-dade4f3465c87462e77ba24a253c0e20_r.jpg",
+        "image_url": "https://pic1.zhimg.com/v2-dade4f3465c87462e77ba24a253c0e20_r.jpg",
+        "followers": 9408,
+        "type": "column"
+      },
+      "type": "search_result",
+      "id": 1
+    },
+    {
+      "highlight": {
+        "content": "分享深度学习和<em>自然语言处理</em>的学习体会",
+        "description": "分享深度学习和<em>自然语言处理</em>的学习体会",
+        "title": "深度学习＆<em>自然语言处理</em>"
+      },
+      "object": {
+        "description": "分享深度学习和<em>自然语言处理</em>的学习体会",
+        "is_following": false,
+        "id": "DL4NLP",
+        "articles_count": 2,
+        "attached_info_bytes": "OloKC3BsYWNlaG9sZGVyEiAzOTJmN2NkYzhhOWIyYmM0NjQxNTQyZmJkYWNkZmVhZRgFIgUxOTg1MioGREw0TkxQShLoh6rnhLbor63oqIDlpITnkIZQAFgEYAE=",
+        "score": 2.4176197052,
+        "title": "深度学习＆<em>自然语言处理</em>",
+        "url": "https://api.zhihu.com/columns/DL4NLP",
+        "author": {
+          "badge": [
+            {
+              "type": "identity",
+              "description": "复旦大学 计算机科学技术学院副教授"
+            }
+          ],
+          "name": "邱锡鹏",
+          "url": "https://api.zhihu.com/people/b19ca4e637b539cb250328d41bb3bb5b",
+          "type": "people",
+          "avatar_url": "https://pic4.zhimg.com/50/1590fdda3cae8d6c7a01ef595d0258e6_s.jpg",
+          "url_token": "xpqiu",
+          "id": "b19ca4e637b539cb250328d41bb3bb5b"
+        },
+        "avatar_url": "https://pic3.zhimg.com/4b70deef7_r.jpg",
+        "image_url": "https://pic3.zhimg.com/4b70deef7_r.jpg",
+        "followers": 853,
+        "type": "column"
+      },
+      "type": "search_result",
+      "id": 2
+    },
+    {
+      "highlight": {
+        "content": "",
+        "description": "",
+        "title": "<em>自然语言处理</em>"
+      },
+      "object": {
+        "description": "",
+        "is_following": false,
+        "id": "c_102432714",
+        "articles_count": 1,
+        "attached_info_bytes": "Ol8KC3BsYWNlaG9sZGVyEiAzOTJmN2NkYzhhOWIyYmM0NjQxNTQyZmJkYWNkZmVhZRgFIgUzNzkzMSoLY18xMDI0MzI3MTRKEuiHqueEtuivreiogOWkhOeQhlAAWARgAQ==",
+        "score": 2.2946634293,
+        "title": "<em>自然语言处理</em>",
+        "url": "https://api.zhihu.com/columns/c_102432714",
+        "author": {
+          "badge": [],
+          "name": "zhugehun",
+          "url": "https://api.zhihu.com/people/2ee78b712a216d3f4f370e177e56fd2a",
+          "type": "people",
+          "avatar_url": "https://pic4.zhimg.com/50/da8e974dc_s.jpg",
+          "url_token": "liu-lian-74",
+          "id": "2ee78b712a216d3f4f370e177e56fd2a"
+        },
+        "avatar_url": "https://pic3.zhimg.com/4b70deef7_r.jpg",
+        "image_url": "https://pic3.zhimg.com/4b70deef7_r.jpg",
+        "followers": 136,
+        "type": "column"
+      },
+      "type": "search_result",
+      "id": 3
+    },
+    {
+      "highlight": {
+        "content": "",
+        "description": "",
+        "title": "计算机视觉&<em>自然语言处理</em>论文笔记"
+      },
+      "object": {
+        "description": "",
+        "is_following": false,
+        "id": "warrenLiu",
+        "articles_count": 7,
+        "attached_info_bytes": "Ol0KC3BsYWNlaG9sZGVyEiAzOTJmN2NkYzhhOWIyYmM0NjQxNTQyZmJkYWNkZmVhZRgFIgU0MTgyMSoJd2FycmVuTGl1ShLoh6rnhLbor63oqIDlpITnkIZQAFgEYAE=",
+        "score": 2.1712813377,
+        "title": "计算机视觉&<em>自然语言处理</em>论文笔记",
+        "url": "https://api.zhihu.com/columns/warrenLiu",
+        "author": {
+          "badge": [],
+          "name": "Warren liu",
+          "url": "https://api.zhihu.com/people/c8275ca295c8a098f0b0f4d074cf5c94",
+          "type": "people",
+          "avatar_url": "https://pic3.zhimg.com/50/v2-6f00c9e36184bb916f3a58922cfad5a9_s.jpg",
+          "url_token": "liu-wen-qi-1024",
+          "id": "c8275ca295c8a098f0b0f4d074cf5c94"
+        },
+        "avatar_url": "https://pic3.zhimg.com/4b70deef7_r.jpg",
+        "image_url": "https://pic3.zhimg.com/4b70deef7_r.jpg",
+        "followers": 183,
+        "type": "column"
+      },
+      "type": "search_result",
+      "id": 4
+    },
+    {
+      "highlight": {
+        "content": "",
+        "description": "",
+        "title": "机器学习和<em>自然语言处理</em>"
+      },
+      "object": {
+        "description": "",
+        "is_following": false,
+        "id": "wwtnlp",
+        "articles_count": 15,
+        "attached_info_bytes": "OloKC3BsYWNlaG9sZGVyEiAzOTJmN2NkYzhhOWIyYmM0NjQxNTQyZmJkYWNkZmVhZRgFIgU0NjczMSoGd3d0bmxwShLoh6rnhLbor63oqIDlpITnkIZQAFgEYAE=",
+        "score": 2.1031420231,
+        "title": "机器学习和<em>自然语言处理</em>",
+        "url": "https://api.zhihu.com/columns/wwtnlp",
+        "author": {
+          "badge": [],
+          "name": "涛笙依旧",
+          "url": "https://api.zhihu.com/people/ca9b2bc68051ac2245acbeb4fe3ddfd0",
+          "type": "people",
+          "avatar_url": "https://pic1.zhimg.com/50/v2-eee8cfdbe6e8881d5efb2417cdaf46ee_s.jpg",
+          "url_token": "Wang_Xing",
+          "id": "ca9b2bc68051ac2245acbeb4fe3ddfd0"
+        },
+        "avatar_url": "https://pic2.zhimg.com/v2-bab2d37afe6ff2731bac077ef5c3f91c_r.jpg",
+        "image_url": "https://pic2.zhimg.com/v2-bab2d37afe6ff2731bac077ef5c3f91c_r.jpg",
+        "followers": 1035,
+        "type": "column"
+      },
+      "type": "search_result",
+      "id": 5
+    },
+    {
+      "highlight": {
+        "content": "<em>自然语言处理</em>与深度学习",
+        "description": "<em>自然语言处理</em>与深度学习",
+        "title": "徐阿衡-<em>自然语言处理</em>"
+      },
+      "object": {
+        "description": "<em>自然语言处理</em>与深度学习",
+        "is_following": false,
+        "id": "c_136690664",
+        "articles_count": 5,
+        "attached_info_bytes": "Ol8KC3BsYWNlaG9sZGVyEiAzOTJmN2NkYzhhOWIyYmM0NjQxNTQyZmJkYWNkZmVhZRgFIgU2OTczMSoLY18xMzY2OTA2NjRKEuiHqueEtuivreiogOWkhOeQhlAAWARgAQ==",
+        "score": 2.0946903229,
+        "title": "徐阿衡-<em>自然语言处理</em>",
+        "url": "https://api.zhihu.com/columns/c_136690664",
+        "author": {
+          "badge": [],
+          "name": "徐阿衡",
+          "url": "https://api.zhihu.com/people/5324047e0b2cfb75c4af11861f339945",
+          "type": "people",
+          "avatar_url": "https://pic4.zhimg.com/50/v2-4a287ec8e3fafbf25613a08f9016bdc7_s.jpg",
+          "url_token": "xu-a-heng-7",
+          "id": "5324047e0b2cfb75c4af11861f339945"
+        },
+        "avatar_url": "https://pic4.zhimg.com/v2-4a287ec8e3fafbf25613a08f9016bdc7_r.jpg",
+        "image_url": "https://pic4.zhimg.com/v2-4a287ec8e3fafbf25613a08f9016bdc7_r.jpg",
+        "followers": 470,
+        "type": "column"
+      },
+      "type": "search_result",
+      "id": 6
+    },
+    {
+      "highlight": {
+        "content": "",
+        "description": "",
+        "title": "<em>自然语言处理</em>"
+      },
+      "object": {
+        "description": "",
+        "is_following": false,
+        "id": "wpdida",
+        "articles_count": 2,
+        "attached_info_bytes": "OloKC3BsYWNlaG9sZGVyEiAzOTJmN2NkYzhhOWIyYmM0NjQxNTQyZmJkYWNkZmVhZRgFIgU0NzA5OCoGd3BkaWRhShLoh6rnhLbor63oqIDlpITnkIZQAFgEYAE=",
+        "score": 1.9828709364,
+        "title": "<em>自然语言处理</em>",
+        "url": "https://api.zhihu.com/columns/wpdida",
+        "author": {
+          "badge": [],
+          "name": "FeanLau",
+          "url": "https://api.zhihu.com/people/c4c2e5128ae553631b6b92a721682db5",
+          "type": "people",
+          "avatar_url": "https://pic4.zhimg.com/50/v2-113820a8a9a1d0cfdb3564d3da873136_s.jpg",
+          "url_token": "iwdps",
+          "id": "c4c2e5128ae553631b6b92a721682db5"
+        },
+        "avatar_url": "https://pic4.zhimg.com/v2-22d505f7cb2752715a43415a04849bd1_r.jpg",
+        "image_url": "https://pic4.zhimg.com/v2-22d505f7cb2752715a43415a04849bd1_r.jpg",
+        "followers": 2,
+        "type": "column"
+      },
+      "type": "search_result",
+      "id": 7
+    },
+    {
+      "highlight": {
+        "content": "",
+        "description": "",
+        "title": "强化学习与<em>自然语言处理</em>"
+      },
+      "object": {
+        "description": "",
+        "is_following": false,
+        "id": "c_147267691",
+        "articles_count": 3,
+        "attached_info_bytes": "Ol8KC3BsYWNlaG9sZGVyEiAzOTJmN2NkYzhhOWIyYmM0NjQxNTQyZmJkYWNkZmVhZRgFIgU3ODIyOCoLY18xNDcyNjc2OTFKEuiHqueEtuivreiogOWkhOeQhlAAWARgAQ==",
+        "score": 1.9738900661,
+        "title": "强化学习与<em>自然语言处理</em>",
+        "url": "https://api.zhihu.com/columns/c_147267691",
+        "author": {
+          "badge": [],
+          "name": "whoami",
+          "url": "https://api.zhihu.com/people/f32345e23b3946a69c429e5dcd0f3d17",
+          "type": "people",
+          "avatar_url": "https://pic3.zhimg.com/50/v2-5635cbade03473b57d46a4af54ba29f4_s.jpg",
+          "url_token": "whoami-29",
+          "id": "f32345e23b3946a69c429e5dcd0f3d17"
+        },
+        "avatar_url": "https://pic3.zhimg.com/4b70deef7_r.jpg",
+        "image_url": "https://pic3.zhimg.com/4b70deef7_r.jpg",
+        "followers": 160,
+        "type": "column"
+      },
+      "type": "search_result",
+      "id": 8
+    },
+    {
+      "highlight": {
+        "content": "本栏目将与朋友们分享并讨论关于<em>自然语言处理</em>的前沿技术，探讨有趣的文本挖掘知识",
+        "description": "本栏目将与朋友们分享并讨论关于<em>自然语言处理</em>的前沿技术，探讨有趣的文本挖掘知识",
+        "title": "深度学习与<em>自然语言处理</em>"
+      },
+      "object": {
+        "description": "本栏目将与朋友们分享并讨论关于<em>自然语言处理</em>的前沿技术，探讨有趣的文本挖掘知识",
+        "is_following": false,
+        "id": "liutong3231",
+        "articles_count": 8,
+        "attached_info_bytes": "Ol8KC3BsYWNlaG9sZGVyEiAzOTJmN2NkYzhhOWIyYmM0NjQxNTQyZmJkYWNkZmVhZRgFIgU0MzI2MioLbGl1dG9uZzMyMzFKEuiHqueEtuivreiogOWkhOeQhlAAWARgAQ==",
+        "score": 1.9596244097,
+        "title": "深度学习与<em>自然语言处理</em>",
+        "url": "https://api.zhihu.com/columns/liutong3231",
+        "author": {
+          "badge": [],
+          "name": "刘通",
+          "url": "https://api.zhihu.com/people/22101acf7be39758c0216270cc5dfe3b",
+          "type": "people",
+          "avatar_url": "https://pic2.zhimg.com/50/v2-dde58718ed445fa09ec044ad2b355de0_s.jpg",
+          "url_token": "xiao-nu-43",
+          "id": "22101acf7be39758c0216270cc5dfe3b"
+        },
+        "avatar_url": "https://pic3.zhimg.com/v2-c829a17b344ee7f0732a9e343bbdcb91_r.jpg",
+        "image_url": "https://pic3.zhimg.com/v2-c829a17b344ee7f0732a9e343bbdcb91_r.jpg",
+        "followers": 118,
+        "type": "column"
+      },
+      "type": "search_result",
+      "id": 9
+    },
+    {
+      "highlight": {
+        "content": "本专栏专注于介绍深度学习方面的基础知识，主要包括神经网络基础概念和，深度学习中的python，深度学习中的线性代数，深度学习工具箱，深度学习中的微积分，深度学习中的概率论与数理统计。除此之外，还有一些著名网络课程的学习笔记，主要包括斯坦福大学CS224n课程、coursera吴恩达深度学习课程等",
+        "description": "本专栏专注于介绍深度学习方面的基础知识，主要包括神经网络基础概念和，深度学习中的python，深度学习中的线性代数，深度学习工具箱，深度学习中的微积分，深度学习中的概率论与数理统计。除此之外，还有一些著名网络课程的学习笔记，主要包括斯坦福大学CS224n课程、coursera吴恩达深度学习课程等",
+        "title": "深度学习+<em>自然语言处理</em>（NLP）"
+      },
+      "object": {
+        "description": "本专栏专注于介绍深度学习方面的基础知识，主要包括神经网络基础概念和，深度学习中的python，深度学习中的线性代数，深度学习工具箱，深度学习中的微积分，深度学习中的概率论与数理统计。除此之外，还有一些著名网络课程的学习笔记，主要包括斯坦福大学CS224n课程、coursera吴恩达深度学习课程等",
+        "is_following": false,
+        "id": "c_123183356",
+        "articles_count": 35,
+        "attached_info_bytes": "Ol8KC3BsYWNlaG9sZGVyEiAzOTJmN2NkYzhhOWIyYmM0NjQxNTQyZmJkYWNkZmVhZRgFIgU1NzQwMSoLY18xMjMxODMzNTZKEuiHqueEtuivreiogOWkhOeQhlAAWARgAQ==",
+        "score": 1.9462504387,
+        "title": "深度学习+<em>自然语言处理</em>（NLP）",
+        "url": "https://api.zhihu.com/columns/c_123183356",
+        "author": {
+          "badge": [],
+          "name": "刘博",
+          "url": "https://api.zhihu.com/people/4751c3974182d4ef9e5ba3f7555118c5",
+          "type": "people",
+          "avatar_url": "https://pic3.zhimg.com/50/v2-0ec5bf70b83ffd60863cb090846bc954_s.jpg",
+          "url_token": "liu-bo-11-42-89",
+          "id": "4751c3974182d4ef9e5ba3f7555118c5"
+        },
+        "avatar_url": "https://pic3.zhimg.com/v2-d858f70348500f54c0dbc8bc9f914fa9_r.jpg",
+        "image_url": "https://pic3.zhimg.com/v2-d858f70348500f54c0dbc8bc9f914fa9_r.jpg",
+        "followers": 1827,
+        "type": "column"
+      },
+      "type": "search_result",
+      "id": 10
+    }
+  ],
+  "search_action_info": {
+    "attached_info_bytes": "OjwSIDM5MmY3Y2RjOGE5YjJiYzQ2NDE1NDJmYmRhY2RmZWFlShLoh6rnhLbor63oqIDlpITnkIZQAFgEYAE=",
+    "search_hash_id": "392f7cdc8a9b2bc4641542fbdacdfeae"
+  }
+}

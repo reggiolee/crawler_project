@@ -1,0 +1,350 @@
+{
+  "related_search_result": [],
+  "paging": {
+    "is_end": false,
+    "next": "http://www.zhihu.com/search_v3?content_length=150&correction=1&search_hash_id=392f7cdc8a9b2bc4641542fbdacdfeae&q=%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86&limit=10&t=column&offset=60&topic_filter=0",
+    "previous": "http://www.zhihu.com/search_v3?content_length=150&correction=1&search_hash_id=392f7cdc8a9b2bc4641542fbdacdfeae&q=%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86&limit=10&t=column&offset=40&topic_filter=0"
+  },
+  "data": [
+    {
+      "highlight": {
+        "content": "负责人工智能、机器学习、<em>自然语言处理</em>技术以及创新产品的研发。",
+        "description": "负责人工智能、机器学习、<em>自然语言处理</em>技术以及创新产品的研发。",
+        "title": "用技术改变世界"
+      },
+      "object": {
+        "description": "负责人工智能、机器学习、<em>自然语言处理</em>技术以及创新产品的研发。",
+        "is_following": false,
+        "id": "liwenzhe",
+        "articles_count": 3,
+        "attached_info_bytes": "OlsKC3BsYWNlaG9sZGVyEiAzOTJmN2NkYzhhOWIyYmM0NjQxNTQyZmJkYWNkZmVhZRgFIgQ5MjcxKghsaXdlbnpoZUoS6Ieq54S26K+t6KiA5aSE55CGUABYBGAB",
+        "score": 0.1305414289,
+        "title": "用技术改变世界",
+        "url": "https://api.zhihu.com/columns/liwenzhe",
+        "author": {
+          "badge": [
+            {
+              "topics": [
+                {
+                  "name": "机器学习",
+                  "url": "https://api.zhihu.com/topics/19559450",
+                  "excerpt": "“机器学习是近20多年兴起的一门多领域交叉学科，涉及概率论、统计学、逼近论、凸分析、算法复杂度理论等多门学科。机器学习理论主要是设计和分析一些让计算机 可以自动“学习 ”的算法。机器学习算法是一类从数据中自动分析获得规律，并利用规律对未知数据进行预测的算法。因为学习算法中涉及了大量的统计学理论，机器学习与统计推断学联系尤为密切，也被称为统计学习理论。算法设计方面，机器学习理论关注可以实现的，行之有效的…",
+                  "introduction": "“机器学习是近20多年兴起的一门多领域交叉学科，涉及概率论、统计学、逼近论、凸分析、算法复杂度理论等多门学科。机器学习理论主要是设计和分析一些让<a href=\"http://link.zhihu.com/?target=https%3A//zh.wikipedia.org/wiki/%25E8%25AE%25A1%25E7%25AE%2597%25E6%259C%25BA\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">计算机<i class=\"icon-external\"></i></a>可以自动“<a href=\"http://link.zhihu.com/?target=https%3A//zh.wikipedia.org/wiki/%25E5%25AD%25A6%25E4%25B9%25A0\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">学习<i class=\"icon-external\"></i></a>”的算法。机器学习算法是一类从数据中自动分析获得规律，并利用规律对未知数据进行预测的算法。因为学习算法中涉及了大量的统计学理论，机器学习与统计推断学联系尤为密切，也被称为统计学习理论。算法设计方面，机器学习理论关注可以实现的，行之有效的学习算法。很多<a href=\"http://link.zhihu.com/?target=https%3A//zh.wikipedia.org/wiki/%25E6%258E%25A8%25E8%25AE%25BA\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">推论<i class=\"icon-external\"></i></a>问题属于<a href=\"http://link.zhihu.com/?target=https%3A//zh.wikipedia.org/w/index.php%3Ftitle%3D%25E6%2597%25A0%25E7%25A8%258B%25E5%25BA%258F%25E5%258F%25AF%25E5%25BE%25AA%25E9%259A%25BE%25E5%25BA%25A6%26action%3Dedit%26redlink%3D1\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">无程序可循难度<i class=\"icon-external\"></i></a>，所以部分的机器学习研究是开发容易处理的近似算法。”<br><br>——中文维基百科",
+                  "avatar_url": "https://pic2.zhimg.com/50/d3dd87a0feae0a3db82973157eee89c0_s.jpg",
+                  "type": "topic",
+                  "id": "19559450"
+                }
+              ],
+              "type": "best_answerer",
+              "description": "优秀回答者"
+            }
+          ],
+          "name": "李文哲",
+          "url": "https://api.zhihu.com/people/740cde3d3ba93d33fc59b31f49b2b03b",
+          "type": "people",
+          "avatar_url": "https://pic2.zhimg.com/50/4464735818dd7e24ae1d64104559441b_s.jpg",
+          "url_token": "wenzhe-li",
+          "id": "740cde3d3ba93d33fc59b31f49b2b03b"
+        },
+        "avatar_url": "https://pic3.zhimg.com/4b70deef7_r.jpg",
+        "image_url": "https://pic3.zhimg.com/4b70deef7_r.jpg",
+        "followers": 1096,
+        "type": "column"
+      },
+      "type": "search_result",
+      "id": 51
+    },
+    {
+      "highlight": {
+        "content": "READ",
+        "description": "READ",
+        "title": "论文阅读笔记"
+      },
+      "object": {
+        "description": "READ",
+        "is_following": false,
+        "id": "paper-reading",
+        "articles_count": 13,
+        "attached_info_bytes": "OmEKC3BsYWNlaG9sZGVyEiAzOTJmN2NkYzhhOWIyYmM0NjQxNTQyZmJkYWNkZmVhZRgFIgU1NjEyOSoNcGFwZXItcmVhZGluZ0oS6Ieq54S26K+t6KiA5aSE55CGUABYBGAB",
+        "score": 0.12988922,
+        "title": "论文阅读笔记",
+        "url": "https://api.zhihu.com/columns/paper-reading",
+        "author": {
+          "badge": [],
+          "name": "KoRe",
+          "url": "https://api.zhihu.com/people/dfa09089a0d521de903a0f0d81bf97d3",
+          "type": "people",
+          "avatar_url": "https://pic2.zhimg.com/50/v2-e53bf746a24b6c04e733f9d37ce41010_s.jpg",
+          "url_token": "guotong1988",
+          "id": "dfa09089a0d521de903a0f0d81bf97d3"
+        },
+        "avatar_url": "https://pic2.zhimg.com/v2-9db0abee62362e09b24108e7c9f7f8e9_r.jpg",
+        "image_url": "https://pic2.zhimg.com/v2-9db0abee62362e09b24108e7c9f7f8e9_r.jpg",
+        "followers": 28,
+        "type": "column"
+      },
+      "type": "search_result",
+      "id": 52
+    },
+    {
+      "highlight": {
+        "content": "目前，网上关于知识图谱的学习资源比较少，关于如何在现实生活场景中应用知识图谱技术的资源更少。出于科普和交流的目的，我创建了此专栏。本专栏主要介绍知识图谱所涉及到的一些相关概念、技术，并结合实践让读者能够构建一个轻量的知识图谱和搭建基于知识图谱的应用。",
+        "description": "目前，网上关于知识图谱的学习资源比较少，关于如何在现实生活场景中应用知识图谱技术的资源更少。出于科普和交流的目的，我创建了此专栏。本专栏主要介绍知识图谱所涉及到的一些相关概念、技术，并结合实践让读者能够构建一个轻量的知识图谱和搭建基于知识图谱的应用。",
+        "title": "知识图谱-给AI装个大脑"
+      },
+      "object": {
+        "description": "目前，网上关于知识图谱的学习资源比较少，关于如何在现实生活场景中应用知识图谱技术的资源更少。出于科普和交流的目的，我创建了此专栏。本专栏主要介绍知识图谱所涉及到的一些相关概念、技术，并结合实践让读者能够构建一个轻量的知识图谱和搭建基于知识图谱的应用。",
+        "is_following": false,
+        "id": "knowledgegraph",
+        "articles_count": 6,
+        "attached_info_bytes": "OmIKC3BsYWNlaG9sZGVyEiAzOTJmN2NkYzhhOWIyYmM0NjQxNTQyZmJkYWNkZmVhZRgFIgU3NzU0NyoOa25vd2xlZGdlZ3JhcGhKEuiHqueEtuivreiogOWkhOeQhlAAWARgAQ==",
+        "score": 0.1292627007,
+        "title": "知识图谱-给AI装个大脑",
+        "url": "https://api.zhihu.com/columns/knowledgegraph",
+        "author": {
+          "badge": [],
+          "name": "SimmerChan",
+          "url": "https://api.zhihu.com/people/33f2ce568f88924e686df7e03cdf49bc",
+          "type": "people",
+          "avatar_url": "https://pic3.zhimg.com/50/v2-34a3d6a881c5ee834e6002ae8be8837c_s.jpg",
+          "url_token": "chen-shi-mei-ye-chen-shi-mei",
+          "id": "33f2ce568f88924e686df7e03cdf49bc"
+        },
+        "avatar_url": "https://pic4.zhimg.com/v2-c436875f7e808bf5bd2d8f20561fd113_r.jpg",
+        "image_url": "https://pic4.zhimg.com/v2-c436875f7e808bf5bd2d8f20561fd113_r.jpg",
+        "followers": 297,
+        "type": "column"
+      },
+      "type": "search_result",
+      "id": 53
+    },
+    {
+      "highlight": {
+        "content": "",
+        "description": "",
+        "title": "七月的炼丹日常"
+      },
+      "object": {
+        "description": "",
+        "is_following": false,
+        "id": "c_122616931",
+        "articles_count": 6,
+        "attached_info_bytes": "Ol8KC3BsYWNlaG9sZGVyEiAzOTJmN2NkYzhhOWIyYmM0NjQxNTQyZmJkYWNkZmVhZRgFIgU1NzI4MioLY18xMjI2MTY5MzFKEuiHqueEtuivreiogOWkhOeQhlAAWARgAQ==",
+        "score": 0.1289577484,
+        "title": "七月的炼丹日常",
+        "url": "https://api.zhihu.com/columns/c_122616931",
+        "author": {
+          "badge": [],
+          "name": "七月",
+          "url": "https://api.zhihu.com/people/157deec64cc5e062b2207aeece42f50f",
+          "type": "people",
+          "avatar_url": "https://pic2.zhimg.com/50/5a9421f7a_s.jpg",
+          "url_token": "SeptEnds",
+          "id": "157deec64cc5e062b2207aeece42f50f"
+        },
+        "avatar_url": "https://pic3.zhimg.com/4b70deef7_r.jpg",
+        "image_url": "https://pic3.zhimg.com/4b70deef7_r.jpg",
+        "followers": 296,
+        "type": "column"
+      },
+      "type": "search_result",
+      "id": 54
+    },
+    {
+      "highlight": {
+        "content": "是一个专注人工智能算法的平台，主要用于<em>自然语言处理</em>和量化交易。",
+        "description": "是一个专注人工智能算法的平台，主要用于<em>自然语言处理</em>和量化交易。",
+        "title": "coderpai"
+      },
+      "object": {
+        "description": "是一个专注人工智能算法的平台，主要用于<em>自然语言处理</em>和量化交易。",
+        "is_following": false,
+        "id": "coderpai",
+        "articles_count": 0,
+        "attached_info_bytes": "OlwKC3BsYWNlaG9sZGVyEiAzOTJmN2NkYzhhOWIyYmM0NjQxNTQyZmJkYWNkZmVhZRgFIgU3OTkzNSoIY29kZXJwYWlKEuiHqueEtuivreiogOWkhOeQhlAAWARgAQ==",
+        "score": 0.1288108975,
+        "title": "coderpai",
+        "url": "https://api.zhihu.com/columns/coderpai",
+        "author": {
+          "badge": [],
+          "name": "陈明明",
+          "url": "https://api.zhihu.com/people/631f964189be160289422d8729953ab3",
+          "type": "people",
+          "avatar_url": "https://pic4.zhimg.com/50/da8e974dc_s.jpg",
+          "url_token": "chen-ming-ming-83-94",
+          "id": "631f964189be160289422d8729953ab3"
+        },
+        "avatar_url": "https://pic2.zhimg.com/v2-5661ff59aef9af0a4677493f2961e217_r.jpg",
+        "image_url": "https://pic2.zhimg.com/v2-5661ff59aef9af0a4677493f2961e217_r.jpg",
+        "followers": 0,
+        "type": "column"
+      },
+      "type": "search_result",
+      "id": 55
+    },
+    {
+      "highlight": {
+        "content": "此专栏主要记录自己看过的对话系统方向的论文笔记和代码实现等，希望可以比较系统的记录一下学习过程，对大家有所帮助",
+        "description": "此专栏主要记录自己看过的对话系统方向的论文笔记和代码实现等，希望可以比较系统的记录一下学习过程，对大家有所帮助",
+        "title": "基于深度学习的对话系统"
+      },
+      "object": {
+        "description": "此专栏主要记录自己看过的对话系统方向的论文笔记和代码实现等，希望可以比较系统的记录一下学习过程，对大家有所帮助",
+        "is_following": false,
+        "id": "c_143965981",
+        "articles_count": 7,
+        "attached_info_bytes": "Ol8KC3BsYWNlaG9sZGVyEiAzOTJmN2NkYzhhOWIyYmM0NjQxNTQyZmJkYWNkZmVhZRgFIgU3NTc5MioLY18xNDM5NjU5ODFKEuiHqueEtuivreiogOWkhOeQhlAAWARgAQ==",
+        "score": 0.128383711,
+        "title": "基于深度学习的对话系统",
+        "url": "https://api.zhihu.com/columns/c_143965981",
+        "author": {
+          "badge": [],
+          "name": "呜呜哈",
+          "url": "https://api.zhihu.com/people/72251acafad7361d3b306b8c3582e4e6",
+          "type": "people",
+          "avatar_url": "https://pic2.zhimg.com/50/v2-fbd96ce728210b146ca34df4aa1c325b_s.jpg",
+          "url_token": "liu-he-he-44",
+          "id": "72251acafad7361d3b306b8c3582e4e6"
+        },
+        "avatar_url": "https://pic2.zhimg.com/v2-998532023f3ed8022ee017acd03f67e4_r.jpg",
+        "image_url": "https://pic2.zhimg.com/v2-998532023f3ed8022ee017acd03f67e4_r.jpg",
+        "followers": 216,
+        "type": "column"
+      },
+      "type": "search_result",
+      "id": 56
+    },
+    {
+      "highlight": {
+        "content": "一枚数学小弱学习机器学习、NLP和机器翻译时所做的笔记",
+        "description": "一枚数学小弱学习机器学习、NLP和机器翻译时所做的笔记",
+        "title": "机器学习算法与NLP学习笔记"
+      },
+      "object": {
+        "description": "一枚数学小弱学习机器学习、NLP和机器翻译时所做的笔记",
+        "is_following": false,
+        "id": "txshi-algo",
+        "articles_count": 55,
+        "attached_info_bytes": "Ol4KC3BsYWNlaG9sZGVyEiAzOTJmN2NkYzhhOWIyYmM0NjQxNTQyZmJkYWNkZmVhZRgFIgUyOTM5NioKdHhzaGktYWxnb0oS6Ieq54S26K+t6KiA5aSE55CGUABYBGAB",
+        "score": 0.1282360405,
+        "title": "机器学习算法与NLP学习笔记",
+        "url": "https://api.zhihu.com/columns/txshi-algo",
+        "author": {
+          "badge": [],
+          "name": "TimsonShi",
+          "url": "https://api.zhihu.com/people/924a431b1c63b0000ecf423c380b630f",
+          "type": "people",
+          "avatar_url": "https://pic3.zhimg.com/50/v2-2458b9c2f769758d89763212c0da86df_s.jpg",
+          "url_token": "timsonshi",
+          "id": "924a431b1c63b0000ecf423c380b630f"
+        },
+        "avatar_url": "https://pic4.zhimg.com/v2-4d5d5a5722bc8deef8caf83c86bfeea4_r.jpg",
+        "image_url": "https://pic4.zhimg.com/v2-4d5d5a5722bc8deef8caf83c86bfeea4_r.jpg",
+        "followers": 200,
+        "type": "column"
+      },
+      "type": "search_result",
+      "id": 57
+    },
+    {
+      "highlight": {
+        "content": "",
+        "description": "",
+        "title": "nlp相关论文笔记"
+      },
+      "object": {
+        "description": "",
+        "is_following": false,
+        "id": "c_134593059",
+        "articles_count": 8,
+        "attached_info_bytes": "Ol8KC3BsYWNlaG9sZGVyEiAzOTJmN2NkYzhhOWIyYmM0NjQxNTQyZmJkYWNkZmVhZRgFIgU2NzcwOSoLY18xMzQ1OTMwNTlKEuiHqueEtuivreiogOWkhOeQhlAAWARgAQ==",
+        "score": 0.1266168356,
+        "title": "nlp相关论文笔记",
+        "url": "https://api.zhihu.com/columns/c_134593059",
+        "author": {
+          "badge": [],
+          "name": "TtC的WH",
+          "url": "https://api.zhihu.com/people/337ce6c7af983c3181fcbcecd26fb124",
+          "type": "people",
+          "avatar_url": "https://pic2.zhimg.com/50/v2-eb77b83971721b231461aa3fb01caf92_s.jpg",
+          "url_token": "ttcwangh",
+          "id": "337ce6c7af983c3181fcbcecd26fb124"
+        },
+        "avatar_url": "https://pic1.zhimg.com/v2-85301a2df870120f4e5344826a44a094_r.jpg",
+        "image_url": "https://pic1.zhimg.com/v2-85301a2df870120f4e5344826a44a094_r.jpg",
+        "followers": 131,
+        "type": "column"
+      },
+      "type": "search_result",
+      "id": 58
+    },
+    {
+      "highlight": {
+        "content": "",
+        "description": "",
+        "title": "阿里智能服务官方技术"
+      },
+      "object": {
+        "description": "",
+        "is_following": false,
+        "id": "ali-iic",
+        "articles_count": 1,
+        "attached_info_bytes": "OlsKC3BsYWNlaG9sZGVyEiAzOTJmN2NkYzhhOWIyYmM0NjQxNTQyZmJkYWNkZmVhZRgFIgU3NTI4MioHYWxpLWlpY0oS6Ieq54S26K+t6KiA5aSE55CGUABYBGAB",
+        "score": 0.1249879524,
+        "title": "阿里智能服务官方技术",
+        "url": "https://api.zhihu.com/columns/ali-iic",
+        "author": {
+          "badge": [],
+          "name": "阿里服务小 AI",
+          "url": "https://api.zhihu.com/people/40b7e7f9cb8fa3229ba2f3c137258cef",
+          "type": "people",
+          "avatar_url": "https://pic4.zhimg.com/50/v2-5759f84bc1373b625d6ad10dab9f304a_s.jpg",
+          "url_token": "a-li-fu-wu-xiao-ai",
+          "id": "40b7e7f9cb8fa3229ba2f3c137258cef"
+        },
+        "avatar_url": "https://pic4.zhimg.com/v2-8f5935283f25a4e20182dec89a23be2d_r.jpg",
+        "image_url": "https://pic4.zhimg.com/v2-8f5935283f25a4e20182dec89a23be2d_r.jpg",
+        "followers": 85,
+        "type": "column"
+      },
+      "type": "search_result",
+      "id": 59
+    },
+    {
+      "highlight": {
+        "content": "脑机接口，推荐系统，智能医疗，<em>自然语言处理</em>，强化学习，强人工智能。专栏适合人群为创业者或者机器学习工程师",
+        "description": "脑机接口，推荐系统，智能医疗，<em>自然语言处理</em>，强化学习，强人工智能。专栏适合人群为创业者或者机器学习工程师",
+        "title": "技术的商业边界"
+      },
+      "object": {
+        "description": "脑机接口，推荐系统，智能医疗，<em>自然语言处理</em>，强化学习，强人工智能。专栏适合人群为创业者或者机器学习工程师",
+        "is_following": false,
+        "id": "jishubianjie",
+        "articles_count": 2,
+        "attached_info_bytes": "OmAKC3BsYWNlaG9sZGVyEiAzOTJmN2NkYzhhOWIyYmM0NjQxNTQyZmJkYWNkZmVhZRgFIgUyNjQxNioMamlzaHViaWFuamllShLoh6rnhLbor63oqIDlpITnkIZQAFgEYAE=",
+        "score": 0.1249349192,
+        "title": "技术的商业边界",
+        "url": "https://api.zhihu.com/columns/jishubianjie",
+        "author": {
+          "badge": [],
+          "name": "李明骏",
+          "url": "https://api.zhihu.com/people/2d0f6fd84d56b0080ed53ecb90a8d188",
+          "type": "people",
+          "avatar_url": "https://pic4.zhimg.com/50/7b9af624d4c161cf0fd4a2af9acf5345_s.jpg",
+          "url_token": "li-ming-jun-23",
+          "id": "2d0f6fd84d56b0080ed53ecb90a8d188"
+        },
+        "avatar_url": "https://pic4.zhimg.com/v2-fe1234396317c90dc7f32fe21418e32e_r.jpg",
+        "image_url": "https://pic4.zhimg.com/v2-fe1234396317c90dc7f32fe21418e32e_r.jpg",
+        "followers": 284,
+        "type": "column"
+      },
+      "type": "search_result",
+      "id": 60
+    }
+  ],
+  "search_action_info": {
+    "attached_info_bytes": "OjwSIDM5MmY3Y2RjOGE5YjJiYzQ2NDE1NDJmYmRhY2RmZWFlShLoh6rnhLbor63oqIDlpITnkIZQAFgEYAE=",
+    "search_hash_id": "392f7cdc8a9b2bc4641542fbdacdfeae"
+  }
+}

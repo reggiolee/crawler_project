@@ -1,0 +1,372 @@
+{
+  "related_search_result": [],
+  "paging": {
+    "is_end": false,
+    "next": "http://www.zhihu.com/search_v3?content_length=150&correction=1&search_hash_id=392f7cdc8a9b2bc4641542fbdacdfeae&q=%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86&limit=10&t=column&offset=150&topic_filter=0",
+    "previous": "http://www.zhihu.com/search_v3?content_length=150&correction=1&search_hash_id=392f7cdc8a9b2bc4641542fbdacdfeae&q=%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86&limit=10&t=column&offset=130&topic_filter=0"
+  },
+  "data": [
+    {
+      "highlight": {
+        "content": "NLP、Data Science的一些心得笔记",
+        "description": "NLP、Data Science的一些心得笔记",
+        "title": "深度炼丹成长记"
+      },
+      "object": {
+        "description": "NLP、Data Science的一些心得笔记",
+        "is_following": false,
+        "id": "dlalchemy",
+        "articles_count": 11,
+        "attached_info_bytes": "Ol0KC3BsYWNlaG9sZGVyEiAzOTJmN2NkYzhhOWIyYmM0NjQxNTQyZmJkYWNkZmVhZRgFIgUzMzAzMCoJZGxhbGNoZW15ShLoh6rnhLbor63oqIDlpITnkIZQAFgEYAE=",
+        "score": 0.1015604883,
+        "title": "深度炼丹成长记",
+        "url": "https://api.zhihu.com/columns/dlalchemy",
+        "author": {
+          "badge": [],
+          "name": "顾秀森",
+          "url": "https://api.zhihu.com/people/0c4932cdba9198f4c4d4e5aad2b8cbb6",
+          "type": "people",
+          "avatar_url": "https://pic3.zhimg.com/50/8716dbf66084b12c8fff334d17fd116f_s.jpg",
+          "url_token": "gu-tian-99",
+          "id": "0c4932cdba9198f4c4d4e5aad2b8cbb6"
+        },
+        "avatar_url": "https://pic3.zhimg.com/v2-38bedad31f4a13b683e7e5c10b9ab860_r.jpg",
+        "image_url": "https://pic3.zhimg.com/v2-38bedad31f4a13b683e7e5c10b9ab860_r.jpg",
+        "followers": 705,
+        "type": "column"
+      },
+      "type": "search_result",
+      "id": 141
+    },
+    {
+      "highlight": {
+        "content": "",
+        "description": "",
+        "title": "机器物语"
+      },
+      "object": {
+        "description": "",
+        "is_following": false,
+        "id": "c_137276900",
+        "articles_count": 5,
+        "attached_info_bytes": "Ol8KC3BsYWNlaG9sZGVyEiAzOTJmN2NkYzhhOWIyYmM0NjQxNTQyZmJkYWNkZmVhZRgFIgU3MDIwMioLY18xMzcyNzY5MDBKEuiHqueEtuivreiogOWkhOeQhlAAWARgAQ==",
+        "score": 0.1014480218,
+        "title": "机器物语",
+        "url": "https://api.zhihu.com/columns/c_137276900",
+        "author": {
+          "badge": [],
+          "name": "李宁",
+          "url": "https://api.zhihu.com/people/7871a2d63c8768da588321e5f0fd77d4",
+          "type": "people",
+          "avatar_url": "https://pic2.zhimg.com/50/v2-389696a456070bcee777227c21e47589_s.jpg",
+          "url_token": "lining-96-94",
+          "id": "7871a2d63c8768da588321e5f0fd77d4"
+        },
+        "avatar_url": "https://pic4.zhimg.com/v2-98e376fcc4686cf6e098f89806c1d09c_r.jpg",
+        "image_url": "https://pic4.zhimg.com/v2-98e376fcc4686cf6e098f89806c1d09c_r.jpg",
+        "followers": 6,
+        "type": "column"
+      },
+      "type": "search_result",
+      "id": 142
+    },
+    {
+      "highlight": {
+        "content": "",
+        "description": "",
+        "title": "NLP日知录"
+      },
+      "object": {
+        "description": "",
+        "is_following": false,
+        "id": "ai-nlp",
+        "articles_count": 4,
+        "attached_info_bytes": "OloKC3BsYWNlaG9sZGVyEiAzOTJmN2NkYzhhOWIyYmM0NjQxNTQyZmJkYWNkZmVhZRgFIgUyMjU2MSoGYWktbmxwShLoh6rnhLbor63oqIDlpITnkIZQAFgEYAE=",
+        "score": 0.10095305,
+        "title": "NLP日知录",
+        "url": "https://api.zhihu.com/columns/ai-nlp",
+        "author": {
+          "badge": [
+            {
+              "type": "identity",
+              "description": "清华大学 副教授"
+            },
+            {
+              "topics": [
+                {
+                  "name": "自然语言处理",
+                  "url": "https://api.zhihu.com/topics/19560026",
+                  "excerpt": "自然语言处理( Natural Language Processing , NLP )",
+                  "introduction": "自然语言处理( <a href=\"http://link.zhihu.com/?target=http%3A//en.wikipedia.org/wiki/Natural_language_processing\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Natural Language Processing<i class=\"icon-external\"></i></a>, NLP )",
+                  "avatar_url": "https://pic3.zhimg.com/50/1f8d9a2c3ed713cf4735d0092d416987_s.jpg",
+                  "type": "topic",
+                  "id": "19560026"
+                },
+                {
+                  "name": "深度学习（Deep Learning）",
+                  "url": "https://api.zhihu.com/topics/19813032",
+                  "excerpt": "机器学习的一个分支，它基于试图使用包含复杂结构或由多重非线性变换构成的多个处理层对数据进行高层抽象的一系列算法。",
+                  "introduction": "机器学习的一个分支，它基于试图使用包含复杂结构或由多重非线性变换构成的多个处理层对数据进行高层抽象的一系列算法。",
+                  "avatar_url": "https://pic2.zhimg.com/50/5d3c206139ca2124997418db09b0bb11_s.jpg",
+                  "type": "topic",
+                  "id": "19813032"
+                },
+                {
+                  "name": "机器学习",
+                  "url": "https://api.zhihu.com/topics/19559450",
+                  "excerpt": "“机器学习是近20多年兴起的一门多领域交叉学科，涉及概率论、统计学、逼近论、凸分析、算法复杂度理论等多门学科。机器学习理论主要是设计和分析一些让计算机 可以自动“学习 ”的算法。机器学习算法是一类从数据中自动分析获得规律，并利用规律对未知数据进行预测的算法。因为学习算法中涉及了大量的统计学理论，机器学习与统计推断学联系尤为密切，也被称为统计学习理论。算法设计方面，机器学习理论关注可以实现的，行之有效的…",
+                  "introduction": "“机器学习是近20多年兴起的一门多领域交叉学科，涉及概率论、统计学、逼近论、凸分析、算法复杂度理论等多门学科。机器学习理论主要是设计和分析一些让<a href=\"http://link.zhihu.com/?target=https%3A//zh.wikipedia.org/wiki/%25E8%25AE%25A1%25E7%25AE%2597%25E6%259C%25BA\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">计算机<i class=\"icon-external\"></i></a>可以自动“<a href=\"http://link.zhihu.com/?target=https%3A//zh.wikipedia.org/wiki/%25E5%25AD%25A6%25E4%25B9%25A0\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">学习<i class=\"icon-external\"></i></a>”的算法。机器学习算法是一类从数据中自动分析获得规律，并利用规律对未知数据进行预测的算法。因为学习算法中涉及了大量的统计学理论，机器学习与统计推断学联系尤为密切，也被称为统计学习理论。算法设计方面，机器学习理论关注可以实现的，行之有效的学习算法。很多<a href=\"http://link.zhihu.com/?target=https%3A//zh.wikipedia.org/wiki/%25E6%258E%25A8%25E8%25AE%25BA\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">推论<i class=\"icon-external\"></i></a>问题属于<a href=\"http://link.zhihu.com/?target=https%3A//zh.wikipedia.org/w/index.php%3Ftitle%3D%25E6%2597%25A0%25E7%25A8%258B%25E5%25BA%258F%25E5%258F%25AF%25E5%25BE%25AA%25E9%259A%25BE%25E5%25BA%25A6%26action%3Dedit%26redlink%3D1\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">无程序可循难度<i class=\"icon-external\"></i></a>，所以部分的机器学习研究是开发容易处理的近似算法。”<br><br>——中文维基百科",
+                  "avatar_url": "https://pic2.zhimg.com/50/d3dd87a0feae0a3db82973157eee89c0_s.jpg",
+                  "type": "topic",
+                  "id": "19559450"
+                }
+              ],
+              "type": "best_answerer",
+              "description": "优秀回答者"
+            }
+          ],
+          "name": "刘知远",
+          "url": "https://api.zhihu.com/people/cc0767a011397b2adac4e1ae6ac00b83",
+          "type": "people",
+          "avatar_url": "https://pic4.zhimg.com/50/f844abbf7_s.jpg",
+          "url_token": "zibuyu9",
+          "id": "cc0767a011397b2adac4e1ae6ac00b83"
+        },
+        "avatar_url": "https://pic3.zhimg.com/4b70deef7_r.jpg",
+        "image_url": "https://pic3.zhimg.com/4b70deef7_r.jpg",
+        "followers": 479,
+        "type": "column"
+      },
+      "type": "search_result",
+      "id": 143
+    },
+    {
+      "highlight": {
+        "content": "",
+        "description": "",
+        "title": "学术兴趣小组"
+      },
+      "object": {
+        "description": "",
+        "is_following": false,
+        "id": "academic-interests",
+        "articles_count": 15,
+        "attached_info_bytes": "OmYKC3BsYWNlaG9sZGVyEiAzOTJmN2NkYzhhOWIyYmM0NjQxNTQyZmJkYWNkZmVhZRgFIgUyODczNSoSYWNhZGVtaWMtaW50ZXJlc3RzShLoh6rnhLbor63oqIDlpITnkIZQAFgEYAE=",
+        "score": 0.1005859226,
+        "title": "学术兴趣小组",
+        "url": "https://api.zhihu.com/columns/academic-interests",
+        "author": {
+          "badge": [],
+          "name": "Gapeng",
+          "url": "https://api.zhihu.com/people/378381f76760848b6046b579a32ae081",
+          "type": "people",
+          "avatar_url": "https://pic4.zhimg.com/50/da8e974dc_s.jpg",
+          "url_token": "hong-jia-peng",
+          "id": "378381f76760848b6046b579a32ae081"
+        },
+        "avatar_url": "https://pic3.zhimg.com/4b70deef7_r.jpg",
+        "image_url": "https://pic3.zhimg.com/4b70deef7_r.jpg",
+        "followers": 1832,
+        "type": "column"
+      },
+      "type": "search_result",
+      "id": 144
+    },
+    {
+      "highlight": {
+        "content": "本专栏由中国人民大学信息学院的赵鑫副教授 (微博 @赵鑫RUC) 所带领的研究小组维护。关注的领域是数据挖掘、社会计算和机器学习。我们会定期会分享相关学术内容，欢迎各位来邮件进行交流，也欢迎大家向该专栏投稿精品文章。知乎账号联系人为 窦洪健，负责资讯、投稿、宣传以及一切账号相关问题，邮箱为43404873@qq.com；企业和转载合作需求请致谢赵鑫老师，邮箱为 batmanfly@qq.com。赵鑫老师个人情况详见个人主页 …",
+        "description": "本专栏由中国人民大学信息学院的赵鑫副教授 (微博 @赵鑫RUC) 所带领的研究小组维护。关注的领域是数据挖掘、社会计算和机器学习。我们会定期会分享相关学术内容，欢迎各位来邮件进行交流，也欢迎大家向该专栏投稿精品文章。知乎账号联系人为 窦洪健，负责资讯、投稿、宣传以及一切账号相关问题，邮箱为43404873@qq.com；企业和转载合作需求请致谢赵鑫老师，邮箱为 batmanfly@qq.com。赵鑫老师个人情况详见个人主页 …",
+        "title": "RUC智能情报站"
+      },
+      "object": {
+        "description": "本专栏由中国人民大学信息学院的赵鑫副教授 (微博 @赵鑫RUC) 所带领的研究小组维护。关注的领域是数据挖掘、社会计算和机器学习。我们会定期会分享相关学术内容，欢迎各位来邮件进行交流，也欢迎大家向该专栏投稿精品文章。知乎账号联系人为 窦洪健，负责资讯、投稿、宣传以及一切账号相关问题，邮箱为43404873@qq.com；企业和转载合作需求请致谢赵鑫老师，邮箱为 batmanfly@qq.com。赵鑫老师个人情况详见个人主页 …",
+        "is_following": false,
+        "id": "RucAIBox",
+        "articles_count": 29,
+        "attached_info_bytes": "OlwKC3BsYWNlaG9sZGVyEiAzOTJmN2NkYzhhOWIyYmM0NjQxNTQyZmJkYWNkZmVhZRgFIgUzMjE1NCoIUnVjQUlCb3hKEuiHqueEtuivreiogOWkhOeQhlAAWARgAQ==",
+        "score": 0.1005660743,
+        "title": "RUC智能情报站",
+        "url": "https://api.zhihu.com/columns/RucAIBox",
+        "author": {
+          "badge": [],
+          "name": "豆豆",
+          "url": "https://api.zhihu.com/people/c6b0e5aa7de56505c4c75990e166c1c0",
+          "type": "people",
+          "avatar_url": "https://pic4.zhimg.com/50/6a0cfcc2b6c915e13754fee288214ff1_s.jpg",
+          "url_token": "dou-hong-jian-44",
+          "id": "c6b0e5aa7de56505c4c75990e166c1c0"
+        },
+        "avatar_url": "https://pic3.zhimg.com/v2-f85899c592c1326ba4546aade073f25c_r.jpg",
+        "image_url": "https://pic3.zhimg.com/v2-f85899c592c1326ba4546aade073f25c_r.jpg",
+        "followers": 1720,
+        "type": "column"
+      },
+      "type": "search_result",
+      "id": 145
+    },
+    {
+      "highlight": {
+        "content": "安立桐的编程学习笔记",
+        "description": "安立桐的编程学习笔记",
+        "title": "安立桐乱谈编程"
+      },
+      "object": {
+        "description": "安立桐的编程学习笔记",
+        "is_following": false,
+        "id": "anlitongstudy",
+        "articles_count": 17,
+        "attached_info_bytes": "OmEKC3BsYWNlaG9sZGVyEiAzOTJmN2NkYzhhOWIyYmM0NjQxNTQyZmJkYWNkZmVhZRgFIgUzMjc2MioNYW5saXRvbmdzdHVkeUoS6Ieq54S26K+t6KiA5aSE55CGUABYBGAB",
+        "score": 0.099520497,
+        "title": "安立桐乱谈编程",
+        "url": "https://api.zhihu.com/columns/anlitongstudy",
+        "author": {
+          "badge": [],
+          "name": "安立桐",
+          "url": "https://api.zhihu.com/people/9095aac0b2a515c350684f96cb5dea6b",
+          "type": "people",
+          "avatar_url": "https://pic4.zhimg.com/50/v2-1290525031c324271427072063b44498_s.jpg",
+          "url_token": "anlitong",
+          "id": "9095aac0b2a515c350684f96cb5dea6b"
+        },
+        "avatar_url": "https://pic2.zhimg.com/v2-af08e0db0dfb313c220598571fb6328c_r.jpg",
+        "image_url": "https://pic2.zhimg.com/v2-af08e0db0dfb313c220598571fb6328c_r.jpg",
+        "followers": 413,
+        "type": "column"
+      },
+      "type": "search_result",
+      "id": 146
+    },
+    {
+      "highlight": {
+        "content": "",
+        "description": "",
+        "title": "Lawbda半生记"
+      },
+      "object": {
+        "description": "",
+        "is_following": false,
+        "id": "thug-life",
+        "articles_count": 2,
+        "attached_info_bytes": "Ol0KC3BsYWNlaG9sZGVyEiAzOTJmN2NkYzhhOWIyYmM0NjQxNTQyZmJkYWNkZmVhZRgFIgUyNzY5NioJdGh1Zy1saWZlShLoh6rnhLbor63oqIDlpITnkIZQAFgEYAE=",
+        "score": 0.0994251072,
+        "title": "Lawbda半生记",
+        "url": "https://api.zhihu.com/columns/thug-life",
+        "author": {
+          "badge": [],
+          "name": "胡莱人形",
+          "url": "https://api.zhihu.com/people/2a0a2f207a8594497f9cf660941c5018",
+          "type": "people",
+          "avatar_url": "https://pic3.zhimg.com/50/5152582a42b555b6c803b01c9e9b07f7_s.jpg",
+          "url_token": "lawbda",
+          "id": "2a0a2f207a8594497f9cf660941c5018"
+        },
+        "avatar_url": "https://pic4.zhimg.com/v2-d9c3cb912b6ae1db4811d36a808e2048_r.jpg",
+        "image_url": "https://pic4.zhimg.com/v2-d9c3cb912b6ae1db4811d36a808e2048_r.jpg",
+        "followers": 394,
+        "type": "column"
+      },
+      "type": "search_result",
+      "id": 147
+    },
+    {
+      "highlight": {
+        "content": "本专栏将在作者工作不饱的时段不定期发布机器学习特别是NLP方向有价值的知识和有趣的应用。\n伐木，即farm，意为发育，打钱。",
+        "description": "本专栏将在作者工作不饱的时段不定期发布机器学习特别是NLP方向有价值的知识和有趣的应用。\n伐木，即farm，意为发育，打钱。",
+        "title": "伐木NLP"
+      },
+      "object": {
+        "description": "本专栏将在作者工作不饱的时段不定期发布机器学习特别是NLP方向有价值的知识和有趣的应用。\n伐木，即farm，意为发育，打钱。",
+        "is_following": false,
+        "id": "nlp-farming",
+        "articles_count": 7,
+        "attached_info_bytes": "Ol8KC3BsYWNlaG9sZGVyEiAzOTJmN2NkYzhhOWIyYmM0NjQxNTQyZmJkYWNkZmVhZRgFIgUyMjgxMioLbmxwLWZhcm1pbmdKEuiHqueEtuivreiogOWkhOeQhlAAWARgAQ==",
+        "score": 0.0992934778,
+        "title": "伐木NLP",
+        "url": "https://api.zhihu.com/columns/nlp-farming",
+        "author": {
+          "badge": [],
+          "name": "李浩",
+          "url": "https://api.zhihu.com/people/1fa5c34a4fd8aece4ff5ad0e01dba7e3",
+          "type": "people",
+          "avatar_url": "https://pic2.zhimg.com/50/v2-c20b51d11b032e5038c1e2c0a8033221_s.jpg",
+          "url_token": "lihao90",
+          "id": "1fa5c34a4fd8aece4ff5ad0e01dba7e3"
+        },
+        "avatar_url": "https://pic2.zhimg.com/v2-98dfccfc8703ef19025415193e13457c_r.jpg",
+        "image_url": "https://pic2.zhimg.com/v2-98dfccfc8703ef19025415193e13457c_r.jpg",
+        "followers": 367,
+        "type": "column"
+      },
+      "type": "search_result",
+      "id": 148
+    },
+    {
+      "highlight": {
+        "content": "主要写点Tensorflow。做一点关于AI的事情。\n作者是个小白，希望可以一起交流，一起进步。\n会多一点干货。\nGithub地址:https://github.com \n个人博客：http://www.hewenning.com ",
+        "description": "主要写点Tensorflow。做一点关于AI的事情。\n作者是个小白，希望可以一起交流，一起进步。\n会多一点干货。\nGithub地址:https://github.com \n个人博客：http://www.hewenning.com ",
+        "title": "那些，关于AI的事"
+      },
+      "object": {
+        "description": "主要写点Tensorflow。做一点关于AI的事情。\n作者是个小白，希望可以一起交流，一起进步。\n会多一点干货。\nGithub地址:https://github.com \n个人博客：http://www.hewenning.com ",
+        "is_following": false,
+        "id": "aiofhewenning",
+        "articles_count": 0,
+        "attached_info_bytes": "OmEKC3BsYWNlaG9sZGVyEiAzOTJmN2NkYzhhOWIyYmM0NjQxNTQyZmJkYWNkZmVhZRgFIgU0Nzc4NyoNYWlvZmhld2VubmluZ0oS6Ieq54S26K+t6KiA5aSE55CGUABYBGAB",
+        "score": 0.0992796943,
+        "title": "那些，关于AI的事",
+        "url": "https://api.zhihu.com/columns/aiofhewenning",
+        "author": {
+          "badge": [],
+          "name": "linuxer",
+          "url": "https://api.zhihu.com/people/18b94619d317d6b839604c519045c9b9",
+          "type": "people",
+          "avatar_url": "https://pic4.zhimg.com/50/v2-1a0a1bfb3be6cd610410c9b83d2ace79_s.jpg",
+          "url_token": "hewenning",
+          "id": "18b94619d317d6b839604c519045c9b9"
+        },
+        "avatar_url": "https://pic3.zhimg.com/v2-88ad13e1721d284ed4efcfb167b235d0_r.jpg",
+        "image_url": "https://pic3.zhimg.com/v2-88ad13e1721d284ed4efcfb167b235d0_r.jpg",
+        "followers": 9,
+        "type": "column"
+      },
+      "type": "search_result",
+      "id": 149
+    },
+    {
+      "highlight": {
+        "content": "",
+        "description": "",
+        "title": "DL for NLP"
+      },
+      "object": {
+        "description": "",
+        "is_following": false,
+        "id": "deepnlp",
+        "articles_count": 0,
+        "attached_info_bytes": "OlsKC3BsYWNlaG9sZGVyEiAzOTJmN2NkYzhhOWIyYmM0NjQxNTQyZmJkYWNkZmVhZRgFIgU1NjkyNSoHZGVlcG5scEoS6Ieq54S26K+t6KiA5aSE55CGUABYBGAB",
+        "score": 0.0989394337,
+        "title": "DL for NLP",
+        "url": "https://api.zhihu.com/columns/deepnlp",
+        "author": {
+          "badge": [],
+          "name": "CiRu",
+          "url": "https://api.zhihu.com/people/a93109793447b16e099998e0c72772c8",
+          "type": "people",
+          "avatar_url": "https://pic3.zhimg.com/50/773fc7d725d94838b524c4cb957c2391_s.jpg",
+          "url_token": "none-61-90",
+          "id": "a93109793447b16e099998e0c72772c8"
+        },
+        "avatar_url": "https://pic3.zhimg.com/4b70deef7_r.jpg",
+        "image_url": "https://pic3.zhimg.com/4b70deef7_r.jpg",
+        "followers": 5,
+        "type": "column"
+      },
+      "type": "search_result",
+      "id": 150
+    }
+  ],
+  "search_action_info": {
+    "attached_info_bytes": "OjwSIDM5MmY3Y2RjOGE5YjJiYzQ2NDE1NDJmYmRhY2RmZWFlShLoh6rnhLbor63oqIDlpITnkIZQAFgEYAE=",
+    "search_hash_id": "392f7cdc8a9b2bc4641542fbdacdfeae"
+  }
+}

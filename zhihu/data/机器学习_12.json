@@ -1,0 +1,366 @@
+{
+  "related_search_result": [],
+  "paging": {
+    "is_end": false,
+    "next": "http://www.zhihu.com/search_v3?content_length=150&correction=1&search_hash_id=392f7cdc8a9b2bc4641542fbdacdfeae&q=%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0&limit=10&t=column&offset=120&topic_filter=0",
+    "previous": "http://www.zhihu.com/search_v3?content_length=150&correction=1&search_hash_id=392f7cdc8a9b2bc4641542fbdacdfeae&q=%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0&limit=10&t=column&offset=100&topic_filter=0"
+  },
+  "data": [
+    {
+      "highlight": {
+        "content": "像一个小白一样<em>学习机器学习</em>",
+        "description": "像一个小白一样<em>学习机器学习</em>",
+        "title": "小白<em>机器学习</em>"
+      },
+      "object": {
+        "description": "像一个小白一样<em>学习机器学习</em>",
+        "is_following": false,
+        "id": "learnML",
+        "articles_count": 9,
+        "attached_info_bytes": "OlUKC3BsYWNlaG9sZGVyEiAzOTJmN2NkYzhhOWIyYmM0NjQxNTQyZmJkYWNkZmVhZRgFIgUyMjI3MCoHbGVhcm5NTEoM5py65Zmo5a2m5LmgUABYBGAB",
+        "score": 1.6724821329,
+        "title": "小白<em>机器学习</em>",
+        "url": "https://api.zhihu.com/columns/learnML",
+        "author": {
+          "badge": [],
+          "name": "张三",
+          "url": "https://api.zhihu.com/people/a0d5d0d797aaba3816c7c5e8916fd352",
+          "type": "people",
+          "avatar_url": "https://pic4.zhimg.com/50/da8e974dc_s.jpg",
+          "url_token": "zhang-san-47-23",
+          "id": "a0d5d0d797aaba3816c7c5e8916fd352"
+        },
+        "avatar_url": "https://pic3.zhimg.com/4b70deef7_r.jpg",
+        "image_url": "https://pic3.zhimg.com/4b70deef7_r.jpg",
+        "followers": 315,
+        "type": "column"
+      },
+      "type": "search_result",
+      "id": 111
+    },
+    {
+      "highlight": {
+        "content": "",
+        "description": "",
+        "title": "人工智能与<em>机器学习</em>"
+      },
+      "object": {
+        "description": "",
+        "is_following": false,
+        "id": "c_76030629",
+        "articles_count": 0,
+        "attached_info_bytes": "OlgKC3BsYWNlaG9sZGVyEiAzOTJmN2NkYzhhOWIyYmM0NjQxNTQyZmJkYWNkZmVhZRgFIgUyNzY4MCoKY183NjAzMDYyOUoM5py65Zmo5a2m5LmgUABYBGAB",
+        "score": 1.672288537,
+        "title": "人工智能与<em>机器学习</em>",
+        "url": "https://api.zhihu.com/columns/c_76030629",
+        "author": {
+          "badge": [],
+          "name": "胡奇",
+          "url": "https://api.zhihu.com/people/5d394ea6c318a133efacbe5a9ec754e7",
+          "type": "people",
+          "avatar_url": "https://pic4.zhimg.com/50/facdc0c431291d1580d6530e0fe56752_s.jpg",
+          "url_token": "hu-qi-37",
+          "id": "5d394ea6c318a133efacbe5a9ec754e7"
+        },
+        "avatar_url": "https://pic3.zhimg.com/4b70deef7_r.jpg",
+        "image_url": "https://pic3.zhimg.com/4b70deef7_r.jpg",
+        "followers": 21,
+        "type": "column"
+      },
+      "type": "search_result",
+      "id": 112
+    },
+    {
+      "highlight": {
+        "content": "",
+        "description": "",
+        "title": "<em>机器学习</em>算法"
+      },
+      "object": {
+        "description": "",
+        "is_following": false,
+        "id": "c_122527514",
+        "articles_count": 0,
+        "attached_info_bytes": "OlkKC3BsYWNlaG9sZGVyEiAzOTJmN2NkYzhhOWIyYmM0NjQxNTQyZmJkYWNkZmVhZRgFIgU1NzIyMCoLY18xMjI1Mjc1MTRKDOacuuWZqOWtpuS5oFAAWARgAQ==",
+        "score": 1.6692860126,
+        "title": "<em>机器学习</em>算法",
+        "url": "https://api.zhihu.com/columns/c_122527514",
+        "author": {
+          "badge": [],
+          "name": "马彦彪",
+          "url": "https://api.zhihu.com/people/66345c659c0478c83be5a5887d8183b4",
+          "type": "people",
+          "avatar_url": "https://pic2.zhimg.com/50/v2-e8d7028fe98c51f1bc7fa0ff17ae37cb_s.jpg",
+          "url_token": "ma-yan-biao-73",
+          "id": "66345c659c0478c83be5a5887d8183b4"
+        },
+        "avatar_url": "https://pic3.zhimg.com/4b70deef7_r.jpg",
+        "image_url": "https://pic3.zhimg.com/4b70deef7_r.jpg",
+        "followers": 7,
+        "type": "column"
+      },
+      "type": "search_result",
+      "id": 113
+    },
+    {
+      "highlight": {
+        "content": "",
+        "description": "",
+        "title": "<em>机器学习</em>与石油"
+      },
+      "object": {
+        "description": "",
+        "is_following": false,
+        "id": "oglosers",
+        "articles_count": 1,
+        "attached_info_bytes": "OlYKC3BsYWNlaG9sZGVyEiAzOTJmN2NkYzhhOWIyYmM0NjQxNTQyZmJkYWNkZmVhZRgFIgU1NDM2NyoIb2dsb3NlcnNKDOacuuWZqOWtpuS5oFAAWARgAQ==",
+        "score": 1.667313695,
+        "title": "<em>机器学习</em>与石油",
+        "url": "https://api.zhihu.com/columns/oglosers",
+        "author": {
+          "badge": [],
+          "name": "大马猴爱吃瓜",
+          "url": "https://api.zhihu.com/people/a189296ba49d2254d864d41ccbc503b5",
+          "type": "people",
+          "avatar_url": "https://pic3.zhimg.com/50/v2-7a4d2b05ea8ac94d43a4b28fa9758376_s.jpg",
+          "url_token": "young-joe-16",
+          "id": "a189296ba49d2254d864d41ccbc503b5"
+        },
+        "avatar_url": "https://pic3.zhimg.com/v2-4e59436d2f831f37339daecbcbde796e_r.jpg",
+        "image_url": "https://pic3.zhimg.com/v2-4e59436d2f831f37339daecbcbde796e_r.jpg",
+        "followers": 9,
+        "type": "column"
+      },
+      "type": "search_result",
+      "id": 114
+    },
+    {
+      "highlight": {
+        "content": "",
+        "description": "",
+        "title": "<em>机器学习</em>与数据挖掘"
+      },
+      "object": {
+        "description": "",
+        "is_following": false,
+        "id": "c_94980632",
+        "articles_count": 3,
+        "attached_info_bytes": "OlgKC3BsYWNlaG9sZGVyEiAzOTJmN2NkYzhhOWIyYmM0NjQxNTQyZmJkYWNkZmVhZRgFIgUzNDU4MyoKY185NDk4MDYzMkoM5py65Zmo5a2m5LmgUABYBGAB",
+        "score": 1.666875124,
+        "title": "<em>机器学习</em>与数据挖掘",
+        "url": "https://api.zhihu.com/columns/c_94980632",
+        "author": {
+          "badge": [],
+          "name": "侯文擎",
+          "url": "https://api.zhihu.com/people/da133a11bab5f8e413d8506b1dbda150",
+          "type": "people",
+          "avatar_url": "https://pic2.zhimg.com/50/v2-5ab499d20ba128778b16cde930e82313_s.jpg",
+          "url_token": "hou-wen-qing-24",
+          "id": "da133a11bab5f8e413d8506b1dbda150"
+        },
+        "avatar_url": "https://pic3.zhimg.com/4b70deef7_r.jpg",
+        "image_url": "https://pic3.zhimg.com/4b70deef7_r.jpg",
+        "followers": 41,
+        "type": "column"
+      },
+      "type": "search_result",
+      "id": 115
+    },
+    {
+      "highlight": {
+        "content": "",
+        "description": "",
+        "title": "统计人眼中的<em>机器学习</em>"
+      },
+      "object": {
+        "description": "",
+        "is_following": false,
+        "id": "c_46820640",
+        "articles_count": 0,
+        "attached_info_bytes": "OlgKC3BsYWNlaG9sZGVyEiAzOTJmN2NkYzhhOWIyYmM0NjQxNTQyZmJkYWNkZmVhZRgFIgUxOTA5NSoKY180NjgyMDY0MEoM5py65Zmo5a2m5LmgUABYBGAB",
+        "score": 1.661682725,
+        "title": "统计人眼中的<em>机器学习</em>",
+        "url": "https://api.zhihu.com/columns/c_46820640",
+        "author": {
+          "badge": [
+            {
+              "topics": [
+                {
+                  "name": "统计学",
+                  "url": "https://api.zhihu.com/topics/19558740",
+                  "excerpt": "统计学是在数据分析的基础上，研究如何测定、收集、整理、归纳和分析反映数据数据，以便给出正确消息的科学。",
+                  "introduction": "<b>统计学</b>是在数据分析的基础上，研究如何测定、收集、整理、归纳和分析反映数据数据，以便给出正确消息的科学。",
+                  "avatar_url": "https://pic3.zhimg.com/50/v2-dc928f3d876a698b83b00ac12d35c5af_s.jpg",
+                  "type": "topic",
+                  "id": "19558740"
+                }
+              ],
+              "type": "best_answerer",
+              "description": "优秀回答者"
+            }
+          ],
+          "name": "姚岑卓",
+          "url": "https://api.zhihu.com/people/0174f2f6bdd730d9773c59c5cb4ed158",
+          "type": "people",
+          "avatar_url": "https://pic3.zhimg.com/50/e5156f92c_s.jpg",
+          "url_token": "cenzhuo_yao",
+          "id": "0174f2f6bdd730d9773c59c5cb4ed158"
+        },
+        "avatar_url": "https://pic3.zhimg.com/4b70deef7_r.jpg",
+        "image_url": "https://pic3.zhimg.com/4b70deef7_r.jpg",
+        "followers": 261,
+        "type": "column"
+      },
+      "type": "search_result",
+      "id": 116
+    },
+    {
+      "highlight": {
+        "content": "",
+        "description": "",
+        "title": "安全数据与<em>机器学习</em>"
+      },
+      "object": {
+        "description": "",
+        "is_following": false,
+        "id": "gokakapo",
+        "articles_count": 9,
+        "attached_info_bytes": "OlYKC3BsYWNlaG9sZGVyEiAzOTJmN2NkYzhhOWIyYmM0NjQxNTQyZmJkYWNkZmVhZRgFIgU2MTEyOSoIZ29rYWthcG9KDOacuuWZqOWtpuS5oFAAWARgAQ==",
+        "score": 1.6605859995,
+        "title": "安全数据与<em>机器学习</em>",
+        "url": "https://api.zhihu.com/columns/gokakapo",
+        "author": {
+          "badge": [],
+          "name": "lau phunter",
+          "url": "https://api.zhihu.com/people/bae4d111692e1a7455c2d370908778d1",
+          "type": "people",
+          "avatar_url": "https://pic3.zhimg.com/50/7bc2a0237c7232d6f3a5a70519ff8c76_s.jpg",
+          "url_token": "phunter",
+          "id": "bae4d111692e1a7455c2d370908778d1"
+        },
+        "avatar_url": "https://pic2.zhimg.com/v2-e673b2d6e3e6a2225c0b7a77a4432b7a_r.jpg",
+        "image_url": "https://pic2.zhimg.com/v2-e673b2d6e3e6a2225c0b7a77a4432b7a_r.jpg",
+        "followers": 584,
+        "type": "column"
+      },
+      "type": "search_result",
+      "id": 117
+    },
+    {
+      "highlight": {
+        "content": "",
+        "description": "",
+        "title": "EtaLi<em>机器学习</em>报告"
+      },
+      "object": {
+        "description": "",
+        "is_following": false,
+        "id": "ml-etali",
+        "articles_count": 1,
+        "attached_info_bytes": "OlYKC3BsYWNlaG9sZGVyEiAzOTJmN2NkYzhhOWIyYmM0NjQxNTQyZmJkYWNkZmVhZRgFIgUxNTYzMioIbWwtZXRhbGlKDOacuuWZqOWtpuS5oFAAWARgAQ==",
+        "score": 1.6572198868,
+        "title": "EtaLi<em>机器学习</em>报告",
+        "url": "https://api.zhihu.com/columns/ml-etali",
+        "author": {
+          "badge": [
+            {
+              "topics": [
+                {
+                  "name": "机器学习",
+                  "url": "https://api.zhihu.com/topics/19559450",
+                  "excerpt": "“机器学习是近20多年兴起的一门多领域交叉学科，涉及概率论、统计学、逼近论、凸分析、算法复杂度理论等多门学科。机器学习理论主要是设计和分析一些让计算机 可以自动“学习 ”的算法。机器学习算法是一类从数据中自动分析获得规律，并利用规律对未知数据进行预测的算法。因为学习算法中涉及了大量的统计学理论，机器学习与统计推断学联系尤为密切，也被称为统计学习理论。算法设计方面，机器学习理论关注可以实现的，行之有效的…",
+                  "introduction": "“机器学习是近20多年兴起的一门多领域交叉学科，涉及概率论、统计学、逼近论、凸分析、算法复杂度理论等多门学科。机器学习理论主要是设计和分析一些让<a href=\"http://link.zhihu.com/?target=https%3A//zh.wikipedia.org/wiki/%25E8%25AE%25A1%25E7%25AE%2597%25E6%259C%25BA\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">计算机<i class=\"icon-external\"></i></a>可以自动“<a href=\"http://link.zhihu.com/?target=https%3A//zh.wikipedia.org/wiki/%25E5%25AD%25A6%25E4%25B9%25A0\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">学习<i class=\"icon-external\"></i></a>”的算法。机器学习算法是一类从数据中自动分析获得规律，并利用规律对未知数据进行预测的算法。因为学习算法中涉及了大量的统计学理论，机器学习与统计推断学联系尤为密切，也被称为统计学习理论。算法设计方面，机器学习理论关注可以实现的，行之有效的学习算法。很多<a href=\"http://link.zhihu.com/?target=https%3A//zh.wikipedia.org/wiki/%25E6%258E%25A8%25E8%25AE%25BA\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">推论<i class=\"icon-external\"></i></a>问题属于<a href=\"http://link.zhihu.com/?target=https%3A//zh.wikipedia.org/w/index.php%3Ftitle%3D%25E6%2597%25A0%25E7%25A8%258B%25E5%25BA%258F%25E5%258F%25AF%25E5%25BE%25AA%25E9%259A%25BE%25E5%25BA%25A6%26action%3Dedit%26redlink%3D1\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">无程序可循难度<i class=\"icon-external\"></i></a>，所以部分的机器学习研究是开发容易处理的近似算法。”<br><br>——中文维基百科",
+                  "avatar_url": "https://pic2.zhimg.com/50/d3dd87a0feae0a3db82973157eee89c0_s.jpg",
+                  "type": "topic",
+                  "id": "19559450"
+                }
+              ],
+              "type": "best_answerer",
+              "description": "优秀回答者"
+            }
+          ],
+          "name": "li Eta",
+          "url": "https://api.zhihu.com/people/e3f97a56de92dafc0e4740042cc06bd9",
+          "type": "people",
+          "avatar_url": "https://pic2.zhimg.com/50/21ce59278_s.jpg",
+          "url_token": "li-eta",
+          "id": "e3f97a56de92dafc0e4740042cc06bd9"
+        },
+        "avatar_url": "https://pic3.zhimg.com/4b70deef7_r.jpg",
+        "image_url": "https://pic3.zhimg.com/4b70deef7_r.jpg",
+        "followers": 1224,
+        "type": "column"
+      },
+      "type": "search_result",
+      "id": 118
+    },
+    {
+      "highlight": {
+        "content": "从我发布第一篇《 [<em>机器学习</em>入门] 李宏毅<em>机器学习</em>笔记-1 (Learning",
+        "description": "从我发布第一篇《 [<em>机器学习</em>入门] 李宏毅<em>机器学习</em>笔记-1 (Learning",
+        "title": "<em>机器学习</em>入门（ 台湾大学李宏毅课程笔记 ）"
+      },
+      "object": {
+        "description": "从我发布第一篇《 [<em>机器学习</em>入门] 李宏毅<em>机器学习</em>笔记-1 (Learning",
+        "is_following": false,
+        "id": "holeung-ml",
+        "articles_count": 8,
+        "attached_info_bytes": "OlgKC3BsYWNlaG9sZGVyEiAzOTJmN2NkYzhhOWIyYmM0NjQxNTQyZmJkYWNkZmVhZRgFIgU0OTg0OCoKaG9sZXVuZy1tbEoM5py65Zmo5a2m5LmgUABYBGAB",
+        "score": 1.6523134708,
+        "title": "<em>机器学习</em>入门（ 台湾大学李宏毅课程笔记 ）",
+        "url": "https://api.zhihu.com/columns/holeung-ml",
+        "author": {
+          "badge": [],
+          "name": "良多趣味",
+          "url": "https://api.zhihu.com/people/4d08230f4f24b8176ccb895a7a55a053",
+          "type": "people",
+          "avatar_url": "https://pic4.zhimg.com/50/v2-8681622780f3cb0a1839e8bf00c732bf_s.jpg",
+          "url_token": "liu-hao-liang-36",
+          "id": "4d08230f4f24b8176ccb895a7a55a053"
+        },
+        "avatar_url": "https://pic4.zhimg.com/v2-c80b296c31b9ff094f1dcde1595933db_r.jpg",
+        "image_url": "https://pic4.zhimg.com/v2-c80b296c31b9ff094f1dcde1595933db_r.jpg",
+        "followers": 1079,
+        "type": "column"
+      },
+      "type": "search_result",
+      "id": 119
+    },
+    {
+      "highlight": {
+        "content": "这是我关于<em>机器学习</em>相关内容的<em>学习</em>笔记文章。主要内容整理自我的博客",
+        "description": "这是我关于<em>机器学习</em>相关内容的<em>学习</em>笔记文章。主要内容整理自我的博客",
+        "title": "FindHao的<em>机器学习</em>魔法书"
+      },
+      "object": {
+        "description": "这是我关于<em>机器学习</em>相关内容的<em>学习</em>笔记文章。主要内容整理自我的博客",
+        "is_following": false,
+        "id": "findhao-machinelearning",
+        "articles_count": 2,
+        "attached_info_bytes": "OmUKC3BsYWNlaG9sZGVyEiAzOTJmN2NkYzhhOWIyYmM0NjQxNTQyZmJkYWNkZmVhZRgFIgUyNzg1NyoXZmluZGhhby1tYWNoaW5lbGVhcm5pbmdKDOacuuWZqOWtpuS5oFAAWARgAQ==",
+        "score": 1.6517776251,
+        "title": "FindHao的<em>机器学习</em>魔法书",
+        "url": "https://api.zhihu.com/columns/findhao-machinelearning",
+        "author": {
+          "badge": [],
+          "name": "Find Hao",
+          "url": "https://api.zhihu.com/people/b2e0f40e1996b8b1ed0dacc9d9e98014",
+          "type": "people",
+          "avatar_url": "https://pic3.zhimg.com/50/7e9b88f39ccb115fb3bf0b3eed514333_s.jpg",
+          "url_token": "findhao",
+          "id": "b2e0f40e1996b8b1ed0dacc9d9e98014"
+        },
+        "avatar_url": "https://pic2.zhimg.com/v2-d87c26dfd8fb7f576fc818e1e8fe660e_r.jpg",
+        "image_url": "https://pic2.zhimg.com/v2-d87c26dfd8fb7f576fc818e1e8fe660e_r.jpg",
+        "followers": 23,
+        "type": "column"
+      },
+      "type": "search_result",
+      "id": 120
+    }
+  ],
+  "search_action_info": {
+    "attached_info_bytes": "OjYSIDM5MmY3Y2RjOGE5YjJiYzQ2NDE1NDJmYmRhY2RmZWFlSgzmnLrlmajlrabkuaBQAFgEYAE=",
+    "search_hash_id": "392f7cdc8a9b2bc4641542fbdacdfeae"
+  }
+}

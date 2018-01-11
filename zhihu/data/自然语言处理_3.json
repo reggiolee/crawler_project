@@ -1,0 +1,339 @@
+{
+  "related_search_result": [],
+  "paging": {
+    "is_end": false,
+    "next": "http://www.zhihu.com/search_v3?content_length=150&correction=1&search_hash_id=392f7cdc8a9b2bc4641542fbdacdfeae&q=%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86&limit=10&t=column&offset=30&topic_filter=0",
+    "previous": "http://www.zhihu.com/search_v3?content_length=150&correction=1&search_hash_id=392f7cdc8a9b2bc4641542fbdacdfeae&q=%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86&limit=10&t=column&offset=10&topic_filter=0"
+  },
+  "data": [
+    {
+      "highlight": {
+        "content": "",
+        "description": "",
+        "title": "R<em>语言</em>心得"
+      },
+      "object": {
+        "description": "",
+        "is_following": false,
+        "id": "c_74360322",
+        "articles_count": 2,
+        "attached_info_bytes": "Ol4KC3BsYWNlaG9sZGVyEiAzOTJmN2NkYzhhOWIyYmM0NjQxNTQyZmJkYWNkZmVhZRgFIgUyNzI5NCoKY183NDM2MDMyMkoS6Ieq54S26K+t6KiA5aSE55CGUABYBGAB",
+        "score": 0.6323432326,
+        "title": "R<em>语言</em>心得",
+        "url": "https://api.zhihu.com/columns/c_74360322",
+        "author": {
+          "badge": [],
+          "name": "毛希林",
+          "url": "https://api.zhihu.com/people/5b7543ffdf0419df4a8f55c84b7c7cb7",
+          "type": "people",
+          "avatar_url": "https://pic4.zhimg.com/50/v2-d4f82a44bf91958f96abd436379e5f08_s.jpg",
+          "url_token": "maoxilin",
+          "id": "5b7543ffdf0419df4a8f55c84b7c7cb7"
+        },
+        "avatar_url": "https://pic3.zhimg.com/4b70deef7_r.jpg",
+        "image_url": "https://pic3.zhimg.com/4b70deef7_r.jpg",
+        "followers": 9,
+        "type": "column"
+      },
+      "type": "search_result",
+      "id": 21
+    },
+    {
+      "highlight": {
+        "content": "用多种数据分析方法。中级、高级 R基础：用R<em>处理</em>数据、简单分析的思路和应用方法",
+        "description": "用多种数据分析方法。中级、高级 R基础：用R<em>处理</em>数据、简单分析的思路和应用方法",
+        "title": "R<em>语言</em>从初学到工作的学习专栏"
+      },
+      "object": {
+        "description": "用多种数据分析方法。中级、高级 R基础：用R<em>处理</em>数据、简单分析的思路和应用方法",
+        "is_following": false,
+        "id": "luckstar-1",
+        "articles_count": 1,
+        "attached_info_bytes": "Ol4KC3BsYWNlaG9sZGVyEiAzOTJmN2NkYzhhOWIyYmM0NjQxNTQyZmJkYWNkZmVhZRgFIgUzOTU1NyoKbHVja3N0YXItMUoS6Ieq54S26K+t6KiA5aSE55CGUABYBGAB",
+        "score": 0.6318442822,
+        "title": "R<em>语言</em>从初学到工作的学习专栏",
+        "url": "https://api.zhihu.com/columns/luckstar-1",
+        "author": {
+          "badge": [],
+          "name": "小黄人",
+          "url": "https://api.zhihu.com/people/f541aff71d872c7af00564f4342b1894",
+          "type": "people",
+          "avatar_url": "https://pic3.zhimg.com/50/v2-86235a0cac28e53565456f76774f86ba_s.jpg",
+          "url_token": "xiao-huang-ren-minions",
+          "id": "f541aff71d872c7af00564f4342b1894"
+        },
+        "avatar_url": "https://pic2.zhimg.com/v2-a574398f305236960e97ba1aa7fa3261_r.jpg",
+        "image_url": "https://pic2.zhimg.com/v2-a574398f305236960e97ba1aa7fa3261_r.jpg",
+        "followers": 132,
+        "type": "column"
+      },
+      "type": "search_result",
+      "id": 22
+    },
+    {
+      "highlight": {
+        "content": "",
+        "description": "",
+        "title": "蒙古文文本<em>处理</em>工具集"
+      },
+      "object": {
+        "description": "",
+        "is_following": false,
+        "id": "c_110332823",
+        "articles_count": 0,
+        "attached_info_bytes": "Ol8KC3BsYWNlaG9sZGVyEiAzOTJmN2NkYzhhOWIyYmM0NjQxNTQyZmJkYWNkZmVhZRgFIgU0Mzc2NCoLY18xMTAzMzI4MjNKEuiHqueEtuivreiogOWkhOeQhlAAWARgAQ==",
+        "score": 0.5870182514,
+        "title": "蒙古文文本<em>处理</em>工具集",
+        "url": "https://api.zhihu.com/columns/c_110332823",
+        "author": {
+          "badge": [],
+          "name": "白双成",
+          "url": "https://api.zhihu.com/people/f850966f38ec90f60a900276a05aaf41",
+          "type": "people",
+          "avatar_url": "https://pic3.zhimg.com/50/v2-ea33feab1f62a368ed0b933a4fe83b4b_s.jpg",
+          "url_token": "bai-shuang-cheng",
+          "id": "f850966f38ec90f60a900276a05aaf41"
+        },
+        "avatar_url": "https://pic3.zhimg.com/4b70deef7_r.jpg",
+        "image_url": "https://pic3.zhimg.com/4b70deef7_r.jpg",
+        "followers": 2,
+        "type": "column"
+      },
+      "type": "search_result",
+      "id": 23
+    },
+    {
+      "highlight": {
+        "content": "机器学习及<em>自然语言处理</em>论文分享",
+        "description": "机器学习及<em>自然语言处理</em>论文分享",
+        "title": "NLP初涉"
+      },
+      "object": {
+        "description": "机器学习及<em>自然语言处理</em>论文分享",
+        "is_following": false,
+        "id": "c_87436989",
+        "articles_count": 12,
+        "attached_info_bytes": "Ol4KC3BsYWNlaG9sZGVyEiAzOTJmN2NkYzhhOWIyYmM0NjQxNTQyZmJkYWNkZmVhZRgFIgUzMjAwNyoKY184NzQzNjk4OUoS6Ieq54S26K+t6KiA5aSE55CGUABYBGAB",
+        "score": 0.4306862652,
+        "title": "NLP初涉",
+        "url": "https://api.zhihu.com/columns/c_87436989",
+        "author": {
+          "badge": [],
+          "name": "饮水机小包",
+          "url": "https://api.zhihu.com/people/103d02aea0192c95cded147282206198",
+          "type": "people",
+          "avatar_url": "https://pic2.zhimg.com/50/v2-c0cb537975f2d1537580d087d4dca80a_s.jpg",
+          "url_token": "li-yan-yun-85",
+          "id": "103d02aea0192c95cded147282206198"
+        },
+        "avatar_url": "https://pic2.zhimg.com/v2-39d201fa545a6a9bd65ec49b092edf2b_r.jpg",
+        "image_url": "https://pic2.zhimg.com/v2-39d201fa545a6a9bd65ec49b092edf2b_r.jpg",
+        "followers": 328,
+        "type": "column"
+      },
+      "type": "search_result",
+      "id": 24
+    },
+    {
+      "highlight": {
+        "content": "",
+        "description": "",
+        "title": "何声欢的专栏"
+      },
+      "object": {
+        "description": "",
+        "is_following": false,
+        "id": "heshenghuan",
+        "articles_count": 4,
+        "attached_info_bytes": "Ol8KC3BsYWNlaG9sZGVyEiAzOTJmN2NkYzhhOWIyYmM0NjQxNTQyZmJkYWNkZmVhZRgFIgU1MjA0MCoLaGVzaGVuZ2h1YW5KEuiHqueEtuivreiogOWkhOeQhlAAWARgAQ==",
+        "score": 0.3148972392,
+        "title": "何声欢的专栏",
+        "url": "https://api.zhihu.com/columns/heshenghuan",
+        "author": {
+          "badge": [],
+          "name": "何声欢",
+          "url": "https://api.zhihu.com/people/14b0acb87c4efd9c2966ecd3920ef4f7",
+          "type": "people",
+          "avatar_url": "https://pic1.zhimg.com/50/bcab1e5626148524a6da9de6132eb827_s.jpg",
+          "url_token": "he-sheng-huan",
+          "id": "14b0acb87c4efd9c2966ecd3920ef4f7"
+        },
+        "avatar_url": "https://pic2.zhimg.com/v2-28a6769778ee15db2b602a8d179bce9f_r.jpg",
+        "image_url": "https://pic2.zhimg.com/v2-28a6769778ee15db2b602a8d179bce9f_r.jpg",
+        "followers": 50,
+        "type": "column"
+      },
+      "type": "search_result",
+      "id": 25
+    },
+    {
+      "highlight": {
+        "content": "PaperWeekly是一个推荐、解读、讨论、报道人工智能前沿论文成果的学术平台。",
+        "description": "PaperWeekly是一个推荐、解读、讨论、报道人工智能前沿论文成果的学术平台。",
+        "title": "PaperWeekly"
+      },
+      "object": {
+        "description": "PaperWeekly是一个推荐、解读、讨论、报道人工智能前沿论文成果的学术平台。",
+        "is_following": false,
+        "id": "paperweekly",
+        "articles_count": 216,
+        "attached_info_bytes": "Ol8KC3BsYWNlaG9sZGVyEiAzOTJmN2NkYzhhOWIyYmM0NjQxNTQyZmJkYWNkZmVhZRgFIgUxNTQxOCoLcGFwZXJ3ZWVrbHlKEuiHqueEtuivreiogOWkhOeQhlAAWARgAQ==",
+        "score": 0.3127964735,
+        "title": "PaperWeekly",
+        "url": "https://api.zhihu.com/columns/paperweekly",
+        "author": {
+          "badge": [],
+          "name": "张俊",
+          "url": "https://api.zhihu.com/people/23d404365eb80c6eb1f9423c61eb508f",
+          "type": "people",
+          "avatar_url": "https://pic2.zhimg.com/50/a4a0b508f7b774600f5400ecbd6ed744_s.jpg",
+          "url_token": "zhang-jun-87-61",
+          "id": "23d404365eb80c6eb1f9423c61eb508f"
+        },
+        "avatar_url": "https://pic3.zhimg.com/v2-8ae80aa47b735441469b01414fc5dcce_r.jpg",
+        "image_url": "https://pic3.zhimg.com/v2-8ae80aa47b735441469b01414fc5dcce_r.jpg",
+        "followers": 11132,
+        "type": "column"
+      },
+      "type": "search_result",
+      "id": 26
+    },
+    {
+      "highlight": {
+        "content": "",
+        "description": "",
+        "title": "记忆网络-Memory Network"
+      },
+      "object": {
+        "description": "",
+        "is_following": false,
+        "id": "c_129532277",
+        "articles_count": 12,
+        "attached_info_bytes": "Ol8KC3BsYWNlaG9sZGVyEiAzOTJmN2NkYzhhOWIyYmM0NjQxNTQyZmJkYWNkZmVhZRgFIgU2MzU1NSoLY18xMjk1MzIyNzdKEuiHqueEtuivreiogOWkhOeQhlAAWARgAQ==",
+        "score": 0.2704324424,
+        "title": "记忆网络-Memory Network",
+        "url": "https://api.zhihu.com/columns/c_129532277",
+        "author": {
+          "badge": [],
+          "name": "呜呜哈",
+          "url": "https://api.zhihu.com/people/72251acafad7361d3b306b8c3582e4e6",
+          "type": "people",
+          "avatar_url": "https://pic2.zhimg.com/50/v2-fbd96ce728210b146ca34df4aa1c325b_s.jpg",
+          "url_token": "liu-he-he-44",
+          "id": "72251acafad7361d3b306b8c3582e4e6"
+        },
+        "avatar_url": "https://pic2.zhimg.com/v2-1539db834f6e98096fc8848d019c8e54_r.jpg",
+        "image_url": "https://pic2.zhimg.com/v2-1539db834f6e98096fc8848d019c8e54_r.jpg",
+        "followers": 998,
+        "type": "column"
+      },
+      "type": "search_result",
+      "id": 27
+    },
+    {
+      "highlight": {
+        "content": "揭开基于知识库问答系统的神秘面纱",
+        "description": "揭开基于知识库问答系统的神秘面纱",
+        "title": "揭开知识库问答KB-QA的面纱"
+      },
+      "object": {
+        "description": "揭开基于知识库问答系统的神秘面纱",
+        "is_following": false,
+        "id": "kb-qa",
+        "articles_count": 14,
+        "attached_info_bytes": "OlkKC3BsYWNlaG9sZGVyEiAzOTJmN2NkYzhhOWIyYmM0NjQxNTQyZmJkYWNkZmVhZRgFIgUzMTIyNyoFa2ItcWFKEuiHqueEtuivreiogOWkhOeQhlAAWARgAQ==",
+        "score": 0.227318868,
+        "title": "揭开知识库问答KB-QA的面纱",
+        "url": "https://api.zhihu.com/columns/kb-qa",
+        "author": {
+          "badge": [],
+          "name": "Losin",
+          "url": "https://api.zhihu.com/people/19570a52d75b83e4d734c51437f6a8f4",
+          "type": "people",
+          "avatar_url": "https://pic3.zhimg.com/50/v2-df77b10d8e8110ff276fa03b64653db0_s.jpg",
+          "url_token": "liu-da-41-85",
+          "id": "19570a52d75b83e4d734c51437f6a8f4"
+        },
+        "avatar_url": "https://pic3.zhimg.com/v2-9ab9dd8019d820f1c020c9339b31d343_r.jpg",
+        "image_url": "https://pic3.zhimg.com/v2-9ab9dd8019d820f1c020c9339b31d343_r.jpg",
+        "followers": 860,
+        "type": "column"
+      },
+      "type": "search_result",
+      "id": 28
+    },
+    {
+      "highlight": {
+        "content": "一名中老年科研人员的自我修养。\n主播内容：\nDeep Learning + NLP\n更新频率：\n不好说\n自我介绍：\nhttp://zhuanlan.zhihu.com/system/19742193 ",
+        "description": "一名中老年科研人员的自我修养。\n主播内容：\nDeep Learning + NLP\n更新频率：\n不好说\n自我介绍：\nhttp://zhuanlan.zhihu.com/system/19742193 ",
+        "title": "【Machine Learning】"
+      },
+      "object": {
+        "description": "一名中老年科研人员的自我修养。\n主播内容：\nDeep Learning + NLP\n更新频率：\n不好说\n自我介绍：\nhttp://zhuanlan.zhihu.com/system/19742193 ",
+        "is_following": false,
+        "id": "system",
+        "articles_count": 2,
+        "attached_info_bytes": "OlkKC3BsYWNlaG9sZGVyEiAzOTJmN2NkYzhhOWIyYmM0NjQxNTQyZmJkYWNkZmVhZRgFIgQxMzcxKgZzeXN0ZW1KEuiHqueEtuivreiogOWkhOeQhlAAWARgAQ==",
+        "score": 0.2271835059,
+        "title": "【Machine Learning】",
+        "url": "https://api.zhihu.com/columns/system",
+        "author": {
+          "badge": [],
+          "name": "许九祀",
+          "url": "https://api.zhihu.com/people/d6dc6ee9057134bdc180b5c4183401ba",
+          "type": "people",
+          "avatar_url": "https://pic1.zhimg.com/50/3fb805ac9_s.jpg",
+          "url_token": "root_admin",
+          "id": "d6dc6ee9057134bdc180b5c4183401ba"
+        },
+        "avatar_url": "https://pic4.zhimg.com/a5e82c1748217e5856f9189e43b562a0_r.jpg",
+        "image_url": "https://pic4.zhimg.com/a5e82c1748217e5856f9189e43b562a0_r.jpg",
+        "followers": 7177,
+        "type": "column"
+      },
+      "type": "search_result",
+      "id": 29
+    },
+    {
+      "highlight": {
+        "content": "对知识图谱的相关技术做解析，包括语义网络、<em>自然语言处理</em>、本体、推理，着重讨论知识图谱在智能问答方面的应用",
+        "description": "对知识图谱的相关技术做解析，包括语义网络、<em>自然语言处理</em>、本体、推理，着重讨论知识图谱在智能问答方面的应用",
+        "title": "知识图谱和智能问答"
+      },
+      "object": {
+        "description": "对知识图谱的相关技术做解析，包括语义网络、<em>自然语言处理</em>、本体、推理，着重讨论知识图谱在智能问答方面的应用",
+        "is_following": false,
+        "id": "kg-qa",
+        "articles_count": 4,
+        "attached_info_bytes": "OlkKC3BsYWNlaG9sZGVyEiAzOTJmN2NkYzhhOWIyYmM0NjQxNTQyZmJkYWNkZmVhZRgFIgU0NjE0NioFa2ctcWFKEuiHqueEtuivreiogOWkhOeQhlAAWARgAQ==",
+        "score": 0.2255339473,
+        "title": "知识图谱和智能问答",
+        "url": "https://api.zhihu.com/columns/kg-qa",
+        "author": {
+          "badge": [
+            {
+              "type": "identity",
+              "description": "东南大学 计算机软件与理论教授"
+            }
+          ],
+          "name": "漆桂林",
+          "url": "https://api.zhihu.com/people/2ee039a96c040b17ca671f10c490c245",
+          "type": "people",
+          "avatar_url": "https://pic1.zhimg.com/50/v2-b5397df3100a56a655e325a1690349fe_s.jpg",
+          "url_token": "qi-gui-lin-26",
+          "id": "2ee039a96c040b17ca671f10c490c245"
+        },
+        "avatar_url": "https://pic3.zhimg.com/4b70deef7_r.jpg",
+        "image_url": "https://pic3.zhimg.com/4b70deef7_r.jpg",
+        "followers": 1000,
+        "type": "column"
+      },
+      "type": "search_result",
+      "id": 30
+    }
+  ],
+  "search_action_info": {
+    "attached_info_bytes": "OjwSIDM5MmY3Y2RjOGE5YjJiYzQ2NDE1NDJmYmRhY2RmZWFlShLoh6rnhLbor63oqIDlpITnkIZQAFgEYAE=",
+    "search_hash_id": "392f7cdc8a9b2bc4641542fbdacdfeae"
+  }
+}

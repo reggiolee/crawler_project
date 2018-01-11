@@ -1,0 +1,375 @@
+{
+  "related_search_result": [],
+  "paging": {
+    "is_end": false,
+    "next": "http://www.zhihu.com/search_v3?content_length=150&correction=1&search_hash_id=392f7cdc8a9b2bc4641542fbdacdfeae&q=%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0&limit=10&t=column&offset=100&topic_filter=0",
+    "previous": "http://www.zhihu.com/search_v3?content_length=150&correction=1&search_hash_id=392f7cdc8a9b2bc4641542fbdacdfeae&q=%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0&limit=10&t=column&offset=80&topic_filter=0"
+  },
+  "data": [
+    {
+      "highlight": {
+        "content": "",
+        "description": "",
+        "title": "<em>机器学习</em>与算法"
+      },
+      "object": {
+        "description": "",
+        "is_following": false,
+        "id": "dragonfive",
+        "articles_count": 2,
+        "attached_info_bytes": "OlgKC3BsYWNlaG9sZGVyEiAzOTJmN2NkYzhhOWIyYmM0NjQxNTQyZmJkYWNkZmVhZRgFIgUxODU3MyoKZHJhZ29uZml2ZUoM5py65Zmo5a2m5LmgUABYBGAB",
+        "score": 1.7003048658,
+        "title": "<em>机器学习</em>与算法",
+        "url": "https://api.zhihu.com/columns/dragonfive",
+        "author": {
+          "badge": [],
+          "name": "dragon five",
+          "url": "https://api.zhihu.com/people/ae25561a8212ab0ea0ed9e103aa1d6f6",
+          "type": "people",
+          "avatar_url": "https://pic4.zhimg.com/50/ea01d4115_s.jpg",
+          "url_token": "dragon-five",
+          "id": "ae25561a8212ab0ea0ed9e103aa1d6f6"
+        },
+        "avatar_url": "https://pic3.zhimg.com/83f6b9da8b1b1622e5a4c955084c83df_r.jpg",
+        "image_url": "https://pic3.zhimg.com/83f6b9da8b1b1622e5a4c955084c83df_r.jpg",
+        "followers": 17,
+        "type": "column"
+      },
+      "type": "search_result",
+      "id": 91
+    },
+    {
+      "highlight": {
+        "content": "",
+        "description": "",
+        "title": "<em>机器学习</em>回顾总结"
+      },
+      "object": {
+        "description": "",
+        "is_following": false,
+        "id": "c_104934358",
+        "articles_count": 5,
+        "attached_info_bytes": "OlkKC3BsYWNlaG9sZGVyEiAzOTJmN2NkYzhhOWIyYmM0NjQxNTQyZmJkYWNkZmVhZRgFIgUzOTU1MioLY18xMDQ5MzQzNThKDOacuuWZqOWtpuS5oFAAWARgAQ==",
+        "score": 1.7003009319,
+        "title": "<em>机器学习</em>回顾总结",
+        "url": "https://api.zhihu.com/columns/c_104934358",
+        "author": {
+          "badge": [],
+          "name": "chlend",
+          "url": "https://api.zhihu.com/people/9bfda057adc40dfc4f2cad42082e331a",
+          "type": "people",
+          "avatar_url": "https://pic4.zhimg.com/50/4fa763ccb3e8fccb5b0833fa0700fc3f_s.jpg",
+          "url_token": "chlend",
+          "id": "9bfda057adc40dfc4f2cad42082e331a"
+        },
+        "avatar_url": "https://pic3.zhimg.com/4b70deef7_r.jpg",
+        "image_url": "https://pic3.zhimg.com/4b70deef7_r.jpg",
+        "followers": 18,
+        "type": "column"
+      },
+      "type": "search_result",
+      "id": 92
+    },
+    {
+      "highlight": {
+        "content": "",
+        "description": "",
+        "title": "深度<em>学习</em>与<em>机器学习</em>小玩家"
+      },
+      "object": {
+        "description": "",
+        "is_following": false,
+        "id": "c_96586036",
+        "articles_count": 0,
+        "attached_info_bytes": "OlgKC3BsYWNlaG9sZGVyEiAzOTJmN2NkYzhhOWIyYmM0NjQxNTQyZmJkYWNkZmVhZRgFIgUzNTIxMCoKY185NjU4NjAzNkoM5py65Zmo5a2m5LmgUABYBGAB",
+        "score": 1.6969732046,
+        "title": "深度<em>学习</em>与<em>机器学习</em>小玩家",
+        "url": "https://api.zhihu.com/columns/c_96586036",
+        "author": {
+          "badge": [
+            {
+              "topics": [
+                {
+                  "name": "芯片（集成电路）",
+                  "url": "https://api.zhihu.com/topics/19583435",
+                  "excerpt": "半导体元件产品的统称。是集成电路（IC, integrated circuit）的载体，由晶圆分割而成。",
+                  "introduction": "半导体元件产品的统称。是集成电路（IC, integrated circuit）的载体，由晶圆分割而成。",
+                  "avatar_url": "https://pic2.zhimg.com/50/0621f6843_s.jpg",
+                  "type": "topic",
+                  "id": "19583435"
+                },
+                {
+                  "name": "中央处理器 (CPU)",
+                  "url": "https://api.zhihu.com/topics/19553309",
+                  "excerpt": "中央处理器（CPU，Central Processing Unit），电子计算机的主要设备之一。其功能主要是解释计算机指令以及处理计算机软件中的数据。",
+                  "introduction": "中央处理器（CPU，Central Processing Unit），电子计算机的主要设备之一。其功能主要是解释计算机指令以及处理计算机软件中的数据。",
+                  "avatar_url": "https://pic1.zhimg.com/50/9de62b0d0_s.jpg",
+                  "type": "topic",
+                  "id": "19553309"
+                }
+              ],
+              "type": "best_answerer",
+              "description": "优秀回答者"
+            }
+          ],
+          "name": "龚黎明",
+          "url": "https://api.zhihu.com/people/331df519ec47c997dc60794aa2dd2f54",
+          "type": "people",
+          "avatar_url": "https://pic2.zhimg.com/50/v2-d8922cd622e9de6aa67ec4ed14330038_s.jpg",
+          "url_token": "stephenkung",
+          "id": "331df519ec47c997dc60794aa2dd2f54"
+        },
+        "avatar_url": "https://pic3.zhimg.com/4b70deef7_r.jpg",
+        "image_url": "https://pic3.zhimg.com/4b70deef7_r.jpg",
+        "followers": 25,
+        "type": "column"
+      },
+      "type": "search_result",
+      "id": 93
+    },
+    {
+      "highlight": {
+        "content": "",
+        "description": "",
+        "title": "<em>机器学习</em>入门系列教程"
+      },
+      "object": {
+        "description": "",
+        "is_following": false,
+        "id": "c_108781627",
+        "articles_count": 0,
+        "attached_info_bytes": "OlkKC3BsYWNlaG9sZGVyEiAzOTJmN2NkYzhhOWIyYmM0NjQxNTQyZmJkYWNkZmVhZRgFIgU0MjE5MSoLY18xMDg3ODE2MjdKDOacuuWZqOWtpuS5oFAAWARgAQ==",
+        "score": 1.6969468594,
+        "title": "<em>机器学习</em>入门系列教程",
+        "url": "https://api.zhihu.com/columns/c_108781627",
+        "author": {
+          "badge": [],
+          "name": "王学宽",
+          "url": "https://api.zhihu.com/people/6c31aa7a8c2e8225227fd187e52e7384",
+          "type": "people",
+          "avatar_url": "https://pic2.zhimg.com/50/7500d9f08d90d8d6953af8b57d009cbb_s.jpg",
+          "url_token": "wang-xue-kuan-51-25",
+          "id": "6c31aa7a8c2e8225227fd187e52e7384"
+        },
+        "avatar_url": "https://pic3.zhimg.com/4b70deef7_r.jpg",
+        "image_url": "https://pic3.zhimg.com/4b70deef7_r.jpg",
+        "followers": 21,
+        "type": "column"
+      },
+      "type": "search_result",
+      "id": 94
+    },
+    {
+      "highlight": {
+        "content": "",
+        "description": "",
+        "title": "大规模<em>机器学习</em>"
+      },
+      "object": {
+        "description": "",
+        "is_following": false,
+        "id": "largescale-ml",
+        "articles_count": 9,
+        "attached_info_bytes": "OlsKC3BsYWNlaG9sZGVyEiAzOTJmN2NkYzhhOWIyYmM0NjQxNTQyZmJkYWNkZmVhZRgFIgUzMzAxMyoNbGFyZ2VzY2FsZS1tbEoM5py65Zmo5a2m5LmgUABYBGAB",
+        "score": 1.6962919235,
+        "title": "大规模<em>机器学习</em>",
+        "url": "https://api.zhihu.com/columns/largescale-ml",
+        "author": {
+          "badge": [
+            {
+              "topics": [
+                {
+                  "name": "机器学习",
+                  "url": "https://api.zhihu.com/topics/19559450",
+                  "excerpt": "“机器学习是近20多年兴起的一门多领域交叉学科，涉及概率论、统计学、逼近论、凸分析、算法复杂度理论等多门学科。机器学习理论主要是设计和分析一些让计算机 可以自动“学习 ”的算法。机器学习算法是一类从数据中自动分析获得规律，并利用规律对未知数据进行预测的算法。因为学习算法中涉及了大量的统计学理论，机器学习与统计推断学联系尤为密切，也被称为统计学习理论。算法设计方面，机器学习理论关注可以实现的，行之有效的…",
+                  "introduction": "“机器学习是近20多年兴起的一门多领域交叉学科，涉及概率论、统计学、逼近论、凸分析、算法复杂度理论等多门学科。机器学习理论主要是设计和分析一些让<a href=\"http://link.zhihu.com/?target=https%3A//zh.wikipedia.org/wiki/%25E8%25AE%25A1%25E7%25AE%2597%25E6%259C%25BA\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">计算机<i class=\"icon-external\"></i></a>可以自动“<a href=\"http://link.zhihu.com/?target=https%3A//zh.wikipedia.org/wiki/%25E5%25AD%25A6%25E4%25B9%25A0\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">学习<i class=\"icon-external\"></i></a>”的算法。机器学习算法是一类从数据中自动分析获得规律，并利用规律对未知数据进行预测的算法。因为学习算法中涉及了大量的统计学理论，机器学习与统计推断学联系尤为密切，也被称为统计学习理论。算法设计方面，机器学习理论关注可以实现的，行之有效的学习算法。很多<a href=\"http://link.zhihu.com/?target=https%3A//zh.wikipedia.org/wiki/%25E6%258E%25A8%25E8%25AE%25BA\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">推论<i class=\"icon-external\"></i></a>问题属于<a href=\"http://link.zhihu.com/?target=https%3A//zh.wikipedia.org/w/index.php%3Ftitle%3D%25E6%2597%25A0%25E7%25A8%258B%25E5%25BA%258F%25E5%258F%25AF%25E5%25BE%25AA%25E9%259A%25BE%25E5%25BA%25A6%26action%3Dedit%26redlink%3D1\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">无程序可循难度<i class=\"icon-external\"></i></a>，所以部分的机器学习研究是开发容易处理的近似算法。”<br><br>——中文维基百科",
+                  "avatar_url": "https://pic2.zhimg.com/50/d3dd87a0feae0a3db82973157eee89c0_s.jpg",
+                  "type": "topic",
+                  "id": "19559450"
+                }
+              ],
+              "type": "best_answerer",
+              "description": "优秀回答者"
+            }
+          ],
+          "name": "杨军",
+          "url": "https://api.zhihu.com/people/2e4dfd1e401bed61d2d21fa6cb4f8600",
+          "type": "people",
+          "avatar_url": "https://pic2.zhimg.com/50/v2-0a767e48ee617044b3898761e96da2d9_s.jpg",
+          "url_token": "yang-jun-14",
+          "id": "2e4dfd1e401bed61d2d21fa6cb4f8600"
+        },
+        "avatar_url": "https://pic3.zhimg.com/4b70deef7_r.jpg",
+        "image_url": "https://pic3.zhimg.com/4b70deef7_r.jpg",
+        "followers": 1068,
+        "type": "column"
+      },
+      "type": "search_result",
+      "id": 95
+    },
+    {
+      "highlight": {
+        "content": "基于深度<em>学习</em>的NLP和推荐算法的研究",
+        "description": "基于深度<em>学习</em>的NLP和推荐算法的研究",
+        "title": "船长的<em>机器学习</em>海志"
+      },
+      "object": {
+        "description": "基于深度<em>学习</em>的NLP和推荐算法的研究",
+        "is_following": false,
+        "id": "MachineGo",
+        "articles_count": 1,
+        "attached_info_bytes": "OlcKC3BsYWNlaG9sZGVyEiAzOTJmN2NkYzhhOWIyYmM0NjQxNTQyZmJkYWNkZmVhZRgFIgUyMDU2OCoJTWFjaGluZUdvSgzmnLrlmajlrabkuaBQAFgEYAE=",
+        "score": 1.6962902546,
+        "title": "船长的<em>机器学习</em>海志",
+        "url": "https://api.zhihu.com/columns/MachineGo",
+        "author": {
+          "badge": [],
+          "name": "船D长",
+          "url": "https://api.zhihu.com/people/329140a5f400eb675d83ba4031bedd38",
+          "type": "people",
+          "avatar_url": "https://pic4.zhimg.com/50/v2-c8b33fb68fca8b6e1a013fd1d1e1809b_s.jpg",
+          "url_token": "moneyboat",
+          "id": "329140a5f400eb675d83ba4031bedd38"
+        },
+        "avatar_url": "https://pic3.zhimg.com/v2-953ef471043a773cea1b1964f3259866_r.jpg",
+        "image_url": "https://pic3.zhimg.com/v2-953ef471043a773cea1b1964f3259866_r.jpg",
+        "followers": 95,
+        "type": "column"
+      },
+      "type": "search_result",
+      "id": 96
+    },
+    {
+      "highlight": {
+        "content": "<em>机器学习</em>、自动控制、多<em>机器</em>人系统",
+        "description": "<em>机器学习</em>、自动控制、多<em>机器</em>人系统",
+        "title": "当<em>机器</em>人遇上了<em>学习</em>"
+      },
+      "object": {
+        "description": "<em>机器学习</em>、自动控制、多<em>机器</em>人系统",
+        "is_following": false,
+        "id": "robotics-learning",
+        "articles_count": 4,
+        "attached_info_bytes": "Ol8KC3BsYWNlaG9sZGVyEiAzOTJmN2NkYzhhOWIyYmM0NjQxNTQyZmJkYWNkZmVhZRgFIgUxNzc5NioRcm9ib3RpY3MtbGVhcm5pbmdKDOacuuWZqOWtpuS5oFAAWARgAQ==",
+        "score": 1.6953558922,
+        "title": "当<em>机器</em>人遇上了<em>学习</em>",
+        "url": "https://api.zhihu.com/columns/robotics-learning",
+        "author": {
+          "badge": [],
+          "name": "江山",
+          "url": "https://api.zhihu.com/people/863c53f68c3ec6daa1c93630bf3e5140",
+          "type": "people",
+          "avatar_url": "https://pic4.zhimg.com/50/e03b446b1ceabc416e25e1229c9a4eeb_s.jpg",
+          "url_token": "jasison27",
+          "id": "863c53f68c3ec6daa1c93630bf3e5140"
+        },
+        "avatar_url": "https://pic4.zhimg.com/8d5388f78670872de0fe7f0d3f5360c6_r.jpg",
+        "image_url": "https://pic4.zhimg.com/8d5388f78670872de0fe7f0d3f5360c6_r.jpg",
+        "followers": 1103,
+        "type": "column"
+      },
+      "type": "search_result",
+      "id": 97
+    },
+    {
+      "highlight": {
+        "content": "",
+        "description": "",
+        "title": "<em>机器学习</em>开发"
+      },
+      "object": {
+        "description": "",
+        "is_following": false,
+        "id": "c_61786941",
+        "articles_count": 5,
+        "attached_info_bytes": "OlgKC3BsYWNlaG9sZGVyEiAzOTJmN2NkYzhhOWIyYmM0NjQxNTQyZmJkYWNkZmVhZRgFIgUyMjY4NCoKY182MTc4Njk0MUoM5py65Zmo5a2m5LmgUABYBGAB",
+        "score": 1.6946319342,
+        "title": "<em>机器学习</em>开发",
+        "url": "https://api.zhihu.com/columns/c_61786941",
+        "author": {
+          "badge": [],
+          "name": "TY Sun",
+          "url": "https://api.zhihu.com/people/d03d300b967a42a3139de94910480aab",
+          "type": "people",
+          "avatar_url": "https://pic2.zhimg.com/50/dd8684c04_s.jpg",
+          "url_token": "ty-sun-77",
+          "id": "d03d300b967a42a3139de94910480aab"
+        },
+        "avatar_url": "https://pic1.zhimg.com/v2-f874893f84a557e83a4d3e04aec509ae_r.jpg",
+        "image_url": "https://pic1.zhimg.com/v2-f874893f84a557e83a4d3e04aec509ae_r.jpg",
+        "followers": 39,
+        "type": "column"
+      },
+      "type": "search_result",
+      "id": 98
+    },
+    {
+      "highlight": {
+        "content": "",
+        "description": "",
+        "title": "<em>机器</em>爱<em>学习</em>"
+      },
+      "object": {
+        "description": "",
+        "is_following": false,
+        "id": "adventure",
+        "articles_count": 3,
+        "attached_info_bytes": "OlcKC3BsYWNlaG9sZGVyEiAzOTJmN2NkYzhhOWIyYmM0NjQxNTQyZmJkYWNkZmVhZRgFIgU1NzgwMCoJYWR2ZW50dXJlSgzmnLrlmajlrabkuaBQAFgEYAE=",
+        "score": 1.6925178766,
+        "title": "<em>机器</em>爱<em>学习</em>",
+        "url": "https://api.zhihu.com/columns/adventure",
+        "author": {
+          "badge": [],
+          "name": "瑟木",
+          "url": "https://api.zhihu.com/people/eac3a9fece6db30620a06aab7e318a58",
+          "type": "people",
+          "avatar_url": "https://pic4.zhimg.com/50/99b84eee93b4e0db9a1d261b7908f3d8_s.jpg",
+          "url_token": "hankai",
+          "id": "eac3a9fece6db30620a06aab7e318a58"
+        },
+        "avatar_url": "https://pic2.zhimg.com/v2-7d3c367b278a314573b13c5f7b109dae_r.jpg",
+        "image_url": "https://pic2.zhimg.com/v2-7d3c367b278a314573b13c5f7b109dae_r.jpg",
+        "followers": 120,
+        "type": "column"
+      },
+      "type": "search_result",
+      "id": 99
+    },
+    {
+      "highlight": {
+        "content": "另一个专栏（关于ML/NLP/CL/科研吐槽）http://zhuanlan.zhihu.com/system \n这个专栏主要主播的是数学、算法等奇奇怪怪的东西。\n简单来说就是主播如何被代数和分析虐，主播如何在Codeforces排位赛里掉分。",
+        "description": "另一个专栏（关于ML/NLP/CL/科研吐槽）http://zhuanlan.zhihu.com/system \n这个专栏主要主播的是数学、算法等奇奇怪怪的东西。\n简单来说就是主播如何被代数和分析虐，主播如何在Codeforces排位赛里掉分。",
+        "title": "<em>机器学习</em>——从入门到放弃"
+      },
+      "object": {
+        "description": "另一个专栏（关于ML/NLP/CL/科研吐槽）http://zhuanlan.zhihu.com/system \n这个专栏主要主播的是数学、算法等奇奇怪怪的东西。\n简单来说就是主播如何被代数和分析虐，主播如何在Codeforces排位赛里掉分。",
+        "is_following": false,
+        "id": "cldpml",
+        "articles_count": 1,
+        "attached_info_bytes": "OlQKC3BsYWNlaG9sZGVyEiAzOTJmN2NkYzhhOWIyYmM0NjQxNTQyZmJkYWNkZmVhZRgFIgUyOTgwMioGY2xkcG1sSgzmnLrlmajlrabkuaBQAFgEYAE=",
+        "score": 1.6921585798,
+        "title": "<em>机器学习</em>——从入门到放弃",
+        "url": "https://api.zhihu.com/columns/cldpml",
+        "author": {
+          "badge": [],
+          "name": "许九祀",
+          "url": "https://api.zhihu.com/people/d6dc6ee9057134bdc180b5c4183401ba",
+          "type": "people",
+          "avatar_url": "https://pic1.zhimg.com/50/3fb805ac9_s.jpg",
+          "url_token": "root_admin",
+          "id": "d6dc6ee9057134bdc180b5c4183401ba"
+        },
+        "avatar_url": "https://pic3.zhimg.com/v2-87b75ef602e394f665e2b29813a851e4_r.jpg",
+        "image_url": "https://pic3.zhimg.com/v2-87b75ef602e394f665e2b29813a851e4_r.jpg",
+        "followers": 317,
+        "type": "column"
+      },
+      "type": "search_result",
+      "id": 100
+    }
+  ],
+  "search_action_info": {
+    "attached_info_bytes": "OjYSIDM5MmY3Y2RjOGE5YjJiYzQ2NDE1NDJmYmRhY2RmZWFlSgzmnLrlmajlrabkuaBQAFgEYAE=",
+    "search_hash_id": "392f7cdc8a9b2bc4641542fbdacdfeae"
+  }
+}
